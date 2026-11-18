@@ -1,0 +1,3054 @@
+[
+  {
+    "formId": "02016866",
+    "name": "Ferry Drop off Marker",
+    "typeId": 0,
+    "type": "None",
+    "plugin": "Dawnguard.esm"
+  },
+  {
+    "formId": "000162A4",
+    "name": "Riverwood",
+    "typeId": 2,
+    "type": "Town",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "00017753",
+    "name": "Dragon Bridge",
+    "typeId": 2,
+    "type": "Town",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "00017780",
+    "name": "Helgen",
+    "typeId": 2,
+    "type": "Town",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "00017791",
+    "name": "Ivarstead",
+    "typeId": 2,
+    "type": "Town",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "0001779A",
+    "name": "Karthwasten",
+    "typeId": 2,
+    "type": "Town",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "000177CC",
+    "name": "Rorikstead",
+    "typeId": 2,
+    "type": "Town",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "000177D7",
+    "name": "Shor's Stone",
+    "typeId": 2,
+    "type": "Town",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "030030AA",
+    "name": "Lakeview Manor",
+    "typeId": 2,
+    "type": "Town",
+    "plugin": "HearthFires.esm"
+  },
+  {
+    "formId": "0300B8B0",
+    "name": "Windstad Manor",
+    "typeId": 2,
+    "type": "Town",
+    "plugin": "HearthFires.esm"
+  },
+  {
+    "formId": "03010DE8",
+    "name": "Heljarchen Hall",
+    "typeId": 2,
+    "type": "Town",
+    "plugin": "HearthFires.esm"
+  },
+  {
+    "formId": "040143E2",
+    "name": "Skaal Village",
+    "typeId": 2,
+    "type": "Town",
+    "plugin": "Dragonborn.esm"
+  },
+  {
+    "formId": "00016245",
+    "name": "Japhet's Folly",
+    "typeId": 3,
+    "type": "Settlement",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "00016339",
+    "name": "Brandy-Mug Farm",
+    "typeId": 3,
+    "type": "Settlement",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "00017785",
+    "name": "Nightgate Inn",
+    "typeId": 3,
+    "type": "Settlement",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "000177A1",
+    "name": "Kynesgrove",
+    "typeId": 3,
+    "type": "Settlement",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "000177C3",
+    "name": "Old Hroldan",
+    "typeId": 3,
+    "type": "Settlement",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "0001A710",
+    "name": "Goldenglow Estate",
+    "typeId": 3,
+    "type": "Settlement",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "0001C3B0",
+    "name": "Dark Brotherhood Sanctuary",
+    "typeId": 3,
+    "type": "Settlement",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "00033E45",
+    "name": "Thalmor Embassy",
+    "typeId": 3,
+    "type": "Settlement",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "00038593",
+    "name": "Honningbrew Meadery",
+    "typeId": 3,
+    "type": "Settlement",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "0005E0A6",
+    "name": "Dawnstar Sanctuary",
+    "typeId": 3,
+    "type": "Settlement",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "000A7CE5",
+    "name": "Black-Briar Lodge",
+    "typeId": 3,
+    "type": "Settlement",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "040143E9",
+    "name": "Thirsk Mead Hall",
+    "typeId": 3,
+    "type": "Settlement",
+    "plugin": "Dragonborn.esm"
+  },
+  {
+    "formId": "00015D4D",
+    "name": "Swindler's Den",
+    "typeId": 4,
+    "type": "Cave",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "0001620F",
+    "name": "Bleakcoast Cave",
+    "typeId": 4,
+    "type": "Cave",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "00016213",
+    "name": "Blind Cliff Cave",
+    "typeId": 4,
+    "type": "Cave",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "00016215",
+    "name": "Bloated Man's Grotto",
+    "typeId": 4,
+    "type": "Cave",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "00016217",
+    "name": "Southfringe Sanctum",
+    "typeId": 4,
+    "type": "Cave",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "00016218",
+    "name": "Broken Fang Cave",
+    "typeId": 4,
+    "type": "Cave",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "00016219",
+    "name": "Broken Helm Hollow",
+    "typeId": 4,
+    "type": "Cave",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "0001621B",
+    "name": "Brood Cavern",
+    "typeId": 4,
+    "type": "Cave",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "0001621C",
+    "name": "Bruca's Leap Redoubt",
+    "typeId": 4,
+    "type": "Cave",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "00016220",
+    "name": "Chillwind Depths",
+    "typeId": 4,
+    "type": "Cave",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "00016226",
+    "name": "Cragslane Cavern",
+    "typeId": 4,
+    "type": "Cave",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "00016227",
+    "name": "Cragwallow Slope",
+    "typeId": 4,
+    "type": "Cave",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "00016228",
+    "name": "Cronvangr Cave",
+    "typeId": 4,
+    "type": "Cave",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "00016229",
+    "name": "Crystaldrift Cave",
+    "typeId": 4,
+    "type": "Cave",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "0001622C",
+    "name": "Darkwater Pass",
+    "typeId": 4,
+    "type": "Cave",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "0001623D",
+    "name": "Red Eagle Redoubt",
+    "typeId": 4,
+    "type": "Cave",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "0001623F",
+    "name": "Duskglow Crevice",
+    "typeId": 4,
+    "type": "Cave",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "00016243",
+    "name": "Fallowstone Cave",
+    "typeId": 4,
+    "type": "Cave",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "00016248",
+    "name": "Forsaken Cave",
+    "typeId": 4,
+    "type": "Cave",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "00016256",
+    "name": "Movarth's Lair",
+    "typeId": 4,
+    "type": "Cave",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "00016257",
+    "name": "Glenmoril Coven",
+    "typeId": 4,
+    "type": "Cave",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "00016258",
+    "name": "Gloomreach",
+    "typeId": 4,
+    "type": "Cave",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "00016259",
+    "name": "Graywinter Watch",
+    "typeId": 4,
+    "type": "Cave",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "0001625A",
+    "name": "Greywater Grotto",
+    "typeId": 4,
+    "type": "Cave",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "0001625D",
+    "name": "Haemar's Shame",
+    "typeId": 4,
+    "type": "Cave",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "00016260",
+    "name": "Halldir's Cairn",
+    "typeId": 4,
+    "type": "Cave",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "00016265",
+    "name": "North Brittleshin Pass",
+    "typeId": 4,
+    "type": "Cave",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "00016266",
+    "name": "Hob's Fall Cave",
+    "typeId": 4,
+    "type": "Cave",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "00016267",
+    "name": "Honeystrand Cave",
+    "typeId": 4,
+    "type": "Cave",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "00016270",
+    "name": "Liar's Retreat",
+    "typeId": 4,
+    "type": "Cave",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "00016273",
+    "name": "Lost Knife Hideout",
+    "typeId": 4,
+    "type": "Cave",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "00016289",
+    "name": "Moss Mother Cavern",
+    "typeId": 4,
+    "type": "Cave",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "00016291",
+    "name": "Orotheim",
+    "typeId": 4,
+    "type": "Cave",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "00016293",
+    "name": "Pinemoon Cave",
+    "typeId": 4,
+    "type": "Cave",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "00016294",
+    "name": "Pinepeak Cavern",
+    "typeId": 4,
+    "type": "Cave",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "0001629C",
+    "name": "Ravenscar Hollow",
+    "typeId": 4,
+    "type": "Cave",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "0001629D",
+    "name": "Reachcliff Cave",
+    "typeId": 4,
+    "type": "Cave",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "0001629E",
+    "name": "Reachwater Rock",
+    "typeId": 4,
+    "type": "Cave",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "0001629F",
+    "name": "Redoran's Retreat",
+    "typeId": 4,
+    "type": "Cave",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "000162A1",
+    "name": "Rimerock Burrow",
+    "typeId": 4,
+    "type": "Cave",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "000162A8",
+    "name": "Shadowgreen Cavern",
+    "typeId": 4,
+    "type": "Cave",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "000162A9",
+    "name": "Shimmermist Cave",
+    "typeId": 4,
+    "type": "Cave",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "000162B3",
+    "name": "Sightless Pit",
+    "typeId": 4,
+    "type": "Cave",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "000162B7",
+    "name": "Eldergleam Sanctuary",
+    "typeId": 4,
+    "type": "Cave",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "000162BB",
+    "name": "Soljund's Sinkhole",
+    "typeId": 4,
+    "type": "Cave",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "000162BF",
+    "name": "Steepfall Burrow",
+    "typeId": 4,
+    "type": "Cave",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "000162C0",
+    "name": "Stillborn Cave",
+    "typeId": 4,
+    "type": "Cave",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "000162C5",
+    "name": "Tolvald's Cave",
+    "typeId": 4,
+    "type": "Cave",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "000162C8",
+    "name": "Uttering Hills Cave",
+    "typeId": 4,
+    "type": "Cave",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "000162CD",
+    "name": "White River Watch",
+    "typeId": 4,
+    "type": "Cave",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "000162D1",
+    "name": "Wolfskull Cave",
+    "typeId": 4,
+    "type": "Cave",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "000162D3",
+    "name": "Yngvild",
+    "typeId": 4,
+    "type": "Cave",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "0002C652",
+    "name": "Brinewater Grotto",
+    "typeId": 4,
+    "type": "Cave",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "0002D511",
+    "name": "Septimus Signus's Outpost",
+    "typeId": 4,
+    "type": "Cave",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "00032875",
+    "name": "Purewater Run",
+    "typeId": 4,
+    "type": "Cave",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "00046BAB",
+    "name": "Bronze Water Cave",
+    "typeId": 4,
+    "type": "Cave",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "00047D25",
+    "name": "Nightingale Hall",
+    "typeId": 4,
+    "type": "Cave",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "00068094",
+    "name": "Snapleg Cave",
+    "typeId": 4,
+    "type": "Cave",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "00080F13",
+    "name": "Stony Creek Cave",
+    "typeId": 4,
+    "type": "Cave",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "00082213",
+    "name": "South Brittleshin Pass",
+    "typeId": 4,
+    "type": "Cave",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "000AF89B",
+    "name": "Lost Echo Cave",
+    "typeId": 4,
+    "type": "Cave",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "000B6046",
+    "name": "Darkshade",
+    "typeId": 4,
+    "type": "Cave",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "000B629F",
+    "name": "Rebel's Cairn",
+    "typeId": 4,
+    "type": "Cave",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "000B77C3",
+    "name": "Broken Oar Grotto",
+    "typeId": 4,
+    "type": "Cave",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "000F4FE7",
+    "name": "Lower Steepfall Burrow",
+    "typeId": 4,
+    "type": "Cave",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "000F52D8",
+    "name": "Boulderfall Cave",
+    "typeId": 4,
+    "type": "Cave",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "000F5EA8",
+    "name": "Sunderstone Gorge",
+    "typeId": 4,
+    "type": "Cave",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "000FDA48",
+    "name": "Bonechill Passage",
+    "typeId": 4,
+    "type": "Cave",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "0010B2C8",
+    "name": "Reachcliff Secret Entrance",
+    "typeId": 4,
+    "type": "Cave",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "02002F6F",
+    "name": "Dimhollow Crypt",
+    "typeId": 4,
+    "type": "Cave",
+    "plugin": "Dawnguard.esm"
+  },
+  {
+    "formId": "02003CFE",
+    "name": "Forebears' Holdout",
+    "typeId": 4,
+    "type": "Cave",
+    "plugin": "Dawnguard.esm"
+  },
+  {
+    "formId": "02004C0F",
+    "name": "Darkfall Cave",
+    "typeId": 4,
+    "type": "Cave",
+    "plugin": "Dawnguard.esm"
+  },
+  {
+    "formId": "02007B23",
+    "name": "Ruunvald Excavation",
+    "typeId": 4,
+    "type": "Cave",
+    "plugin": "Dawnguard.esm"
+  },
+  {
+    "formId": "040143BE",
+    "name": "Benkongerike",
+    "typeId": 4,
+    "type": "Cave",
+    "plugin": "Dragonborn.esm"
+  },
+  {
+    "formId": "040143C1",
+    "name": "Castle Karstaag Ruins",
+    "typeId": 4,
+    "type": "Cave",
+    "plugin": "Dragonborn.esm"
+  },
+  {
+    "formId": "040143C5",
+    "name": "Frossel",
+    "typeId": 4,
+    "type": "Cave",
+    "plugin": "Dragonborn.esm"
+  },
+  {
+    "formId": "040143D1",
+    "name": "Frostmoon Crag",
+    "typeId": 4,
+    "type": "Cave",
+    "plugin": "Dragonborn.esm"
+  },
+  {
+    "formId": "040143D7",
+    "name": "Glacial Cave",
+    "typeId": 4,
+    "type": "Cave",
+    "plugin": "Dragonborn.esm"
+  },
+  {
+    "formId": "04017BB0",
+    "name": "Hrothmund's Barrow",
+    "typeId": 4,
+    "type": "Cave",
+    "plugin": "Dragonborn.esm"
+  },
+  {
+    "formId": "04018ED8",
+    "name": "Castle Karstaag Caverns",
+    "typeId": 4,
+    "type": "Cave",
+    "plugin": "Dragonborn.esm"
+  },
+  {
+    "formId": "0401BC48",
+    "name": "Bristleback Cave",
+    "typeId": 4,
+    "type": "Cave",
+    "plugin": "Dragonborn.esm"
+  },
+  {
+    "formId": "0001623C",
+    "name": "Druadach Redoubt",
+    "typeId": 5,
+    "type": "Camp",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "00016261",
+    "name": "Halted Stream Camp",
+    "typeId": 5,
+    "type": "Camp",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "0001626C",
+    "name": "Karthspire",
+    "typeId": 5,
+    "type": "Camp",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "000162A7",
+    "name": "Robber's Gorge",
+    "typeId": 5,
+    "type": "Camp",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "000162CC",
+    "name": "Serpent's Bluff Redoubt",
+    "typeId": 5,
+    "type": "Camp",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "0008E03C",
+    "name": "Knifepoint Ridge",
+    "typeId": 5,
+    "type": "Camp",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "000B2393",
+    "name": "Dragon Bridge Overlook",
+    "typeId": 5,
+    "type": "Camp",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "000F6698",
+    "name": "Karthspire Camp",
+    "typeId": 5,
+    "type": "Camp",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "040143D0",
+    "name": "Bujold's Retreat",
+    "typeId": 5,
+    "type": "Camp",
+    "plugin": "Dragonborn.esm"
+  },
+  {
+    "formId": "040143D5",
+    "name": "Haknir's Shoal",
+    "typeId": 5,
+    "type": "Camp",
+    "plugin": "Dragonborn.esm"
+  },
+  {
+    "formId": "0402C49B",
+    "name": "Last Vigil",
+    "typeId": 5,
+    "type": "Camp",
+    "plugin": "Dragonborn.esm"
+  },
+  {
+    "formId": "0001621A",
+    "name": "Broken Tower Redoubt",
+    "typeId": 6,
+    "type": "Fort",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "0001622A",
+    "name": "Darklight Tower",
+    "typeId": 6,
+    "type": "Fort",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "0001623B",
+    "name": "Driftshade Refuge",
+    "typeId": 6,
+    "type": "Fort",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "00016242",
+    "name": "Faldar's Tooth",
+    "typeId": 6,
+    "type": "Fort",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "00016244",
+    "name": "Fellglow Keep",
+    "typeId": 6,
+    "type": "Fort",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "00016249",
+    "name": "Fort Amol",
+    "typeId": 6,
+    "type": "Fort",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "0001624A",
+    "name": "Fort Greymoor",
+    "typeId": 6,
+    "type": "Fort",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "0001624B",
+    "name": "Fort Dunstad",
+    "typeId": 6,
+    "type": "Fort",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "0001624C",
+    "name": "Fort Fellhammer",
+    "typeId": 6,
+    "type": "Fort",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "0001624D",
+    "name": "Fort Greenwall",
+    "typeId": 6,
+    "type": "Fort",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "0001624F",
+    "name": "Fort Kastav",
+    "typeId": 6,
+    "type": "Fort",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "00016250",
+    "name": "Fort Neugrad",
+    "typeId": 6,
+    "type": "Fort",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "00016251",
+    "name": "Fort Snowhawk",
+    "typeId": 6,
+    "type": "Fort",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "00016252",
+    "name": "Fort Sungard",
+    "typeId": 6,
+    "type": "Fort",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "00016254",
+    "name": "Gallows Rock",
+    "typeId": 6,
+    "type": "Fort",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "0001625B",
+    "name": "Cracked Tusk Keep",
+    "typeId": 6,
+    "type": "Fort",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "00016262",
+    "name": "Harmugstahl",
+    "typeId": 6,
+    "type": "Fort",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "0001626A",
+    "name": "Ilinalta's Deep",
+    "typeId": 6,
+    "type": "Fort",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "00016286",
+    "name": "Mistwatch",
+    "typeId": 6,
+    "type": "Fort",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "00016288",
+    "name": "Morvunskar",
+    "typeId": 6,
+    "type": "Fort",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "00016290",
+    "name": "Northwatch Keep",
+    "typeId": 6,
+    "type": "Fort",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "000162C6",
+    "name": "Treva's Watch",
+    "typeId": 6,
+    "type": "Fort",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "00016352",
+    "name": "High Hrothgar",
+    "typeId": 6,
+    "type": "Fort",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "00016EB2",
+    "name": "Bloodlet Throne",
+    "typeId": 6,
+    "type": "Fort",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "00017082",
+    "name": "Nightcaller Temple",
+    "typeId": 6,
+    "type": "Fort",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "0003F510",
+    "name": "Fort Hraggstad",
+    "typeId": 6,
+    "type": "Fort",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "000DB889",
+    "name": "Western Watchtower",
+    "typeId": 6,
+    "type": "Fort",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "0200BA4D",
+    "name": "Castle Volkihar",
+    "typeId": 6,
+    "type": "Fort",
+    "plugin": "Dawnguard.esm"
+  },
+  {
+    "formId": "0200FC6C",
+    "name": "Fort Dawnguard",
+    "typeId": 6,
+    "type": "Fort",
+    "plugin": "Dawnguard.esm"
+  },
+  {
+    "formId": "02013F21",
+    "name": "Fort Dawnguard",
+    "typeId": 6,
+    "type": "Fort",
+    "plugin": "Dawnguard.esm"
+  },
+  {
+    "formId": "040143C4",
+    "name": "Fort Frostmoth",
+    "typeId": 6,
+    "type": "Fort",
+    "plugin": "Dragonborn.esm"
+  },
+  {
+    "formId": "040143D8",
+    "name": "Ashfallow Citadel",
+    "typeId": 6,
+    "type": "Fort",
+    "plugin": "Dragonborn.esm"
+  },
+  {
+    "formId": "040143D9",
+    "name": "Highpoint Tower",
+    "typeId": 6,
+    "type": "Fort",
+    "plugin": "Dragonborn.esm"
+  },
+  {
+    "formId": "00015D51",
+    "name": "Angarvunde",
+    "typeId": 7,
+    "type": "Nordic Ruins",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "00015D56",
+    "name": "Ansilvund",
+    "typeId": 7,
+    "type": "Nordic Ruins",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "00016216",
+    "name": "Twilight Sepulcher",
+    "typeId": 7,
+    "type": "Nordic Ruins",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "0001621F",
+    "name": "Ustengrav",
+    "typeId": 7,
+    "type": "Nordic Ruins",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "00016224",
+    "name": "Korvanjund",
+    "typeId": 7,
+    "type": "Nordic Ruins",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "0001622E",
+    "name": "Dead Men's Respite",
+    "typeId": 7,
+    "type": "Nordic Ruins",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "0001622F",
+    "name": "Deepwood Redoubt",
+    "typeId": 7,
+    "type": "Nordic Ruins",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "00016232",
+    "name": "Bleak Falls Barrow",
+    "typeId": 7,
+    "type": "Nordic Ruins",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "00016246",
+    "name": "Folgunthur",
+    "typeId": 7,
+    "type": "Nordic Ruins",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "00016247",
+    "name": "Forelhost",
+    "typeId": 7,
+    "type": "Nordic Ruins",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "00016255",
+    "name": "Geirmund's Hall",
+    "typeId": 7,
+    "type": "Nordic Ruins",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "0001625E",
+    "name": "Hag Rock Redoubt",
+    "typeId": 7,
+    "type": "Nordic Ruins",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "0001625F",
+    "name": "Hag's End",
+    "typeId": 7,
+    "type": "Nordic Ruins",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "00016263",
+    "name": "High Gate Ruins",
+    "typeId": 7,
+    "type": "Nordic Ruins",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "00016264",
+    "name": "Volunruud",
+    "typeId": 7,
+    "type": "Nordic Ruins",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "0001626E",
+    "name": "Labyrinthian",
+    "typeId": 7,
+    "type": "Nordic Ruins",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "00016271",
+    "name": "Yngol Barrow",
+    "typeId": 7,
+    "type": "Nordic Ruins",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "00016274",
+    "name": "Lost Valley Redoubt",
+    "typeId": 7,
+    "type": "Nordic Ruins",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "0001629A",
+    "name": "Ragnvald",
+    "typeId": 7,
+    "type": "Nordic Ruins",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "0001629B",
+    "name": "Rannveig's Fast",
+    "typeId": 7,
+    "type": "Nordic Ruins",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "000162A5",
+    "name": "Saarthal",
+    "typeId": 7,
+    "type": "Nordic Ruins",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "000162B4",
+    "name": "Silent Moons Camp",
+    "typeId": 7,
+    "type": "Nordic Ruins",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "000162B5",
+    "name": "Silverdrift Lair",
+    "typeId": 7,
+    "type": "Nordic Ruins",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "000162C2",
+    "name": "Frostmere Crypt",
+    "typeId": 7,
+    "type": "Nordic Ruins",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "000162CA",
+    "name": "Volskygge",
+    "typeId": 7,
+    "type": "Nordic Ruins",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "000162CB",
+    "name": "Hillgrund's Tomb",
+    "typeId": 7,
+    "type": "Nordic Ruins",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "000162D2",
+    "name": "Ysgramor's Tomb",
+    "typeId": 7,
+    "type": "Nordic Ruins",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "0002DDD1",
+    "name": "Snow Veil Sanctum",
+    "typeId": 7,
+    "type": "Nordic Ruins",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "0003F076",
+    "name": "Ironbind Barrow",
+    "typeId": 7,
+    "type": "Nordic Ruins",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "0006CCC8",
+    "name": "Shroud Hearth Barrow",
+    "typeId": 7,
+    "type": "Nordic Ruins",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "0008D5D6",
+    "name": "Valthume",
+    "typeId": 7,
+    "type": "Nordic Ruins",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "000A0E46",
+    "name": "North Shriekwind Bastion",
+    "typeId": 7,
+    "type": "Nordic Ruins",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "000B83C8",
+    "name": "South Shriekwind Bastion",
+    "typeId": 7,
+    "type": "Nordic Ruins",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "000F5B8D",
+    "name": "Dustman's Cairn",
+    "typeId": 7,
+    "type": "Nordic Ruins",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "000F5FEF",
+    "name": "Arcwind Point",
+    "typeId": 7,
+    "type": "Nordic Ruins",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "040143BF",
+    "name": "Bloodskal Barrow",
+    "typeId": 7,
+    "type": "Nordic Ruins",
+    "plugin": "Dragonborn.esm"
+  },
+  {
+    "formId": "040143C6",
+    "name": "Gyldenhul Barrow",
+    "typeId": 7,
+    "type": "Nordic Ruins",
+    "plugin": "Dragonborn.esm"
+  },
+  {
+    "formId": "040143CB",
+    "name": "Vahlok's Tomb",
+    "typeId": 7,
+    "type": "Nordic Ruins",
+    "plugin": "Dragonborn.esm"
+  },
+  {
+    "formId": "040143CC",
+    "name": "Kolbjorn Barrow",
+    "typeId": 7,
+    "type": "Nordic Ruins",
+    "plugin": "Dragonborn.esm"
+  },
+  {
+    "formId": "040143CD",
+    "name": "White Ridge Barrow",
+    "typeId": 7,
+    "type": "Nordic Ruins",
+    "plugin": "Dragonborn.esm"
+  },
+  {
+    "formId": "00015D4A",
+    "name": "Alftand",
+    "typeId": 8,
+    "type": "Dwemer Ruin",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "0001620D",
+    "name": "Avanchnzel",
+    "typeId": 8,
+    "type": "Dwemer Ruin",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "0001621D",
+    "name": "Bthardamz",
+    "typeId": 8,
+    "type": "Dwemer Ruin",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "0001626B",
+    "name": "Irkngthand",
+    "typeId": 8,
+    "type": "Dwemer Ruin",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "0001628B",
+    "name": "Mzinchaleft",
+    "typeId": 8,
+    "type": "Dwemer Ruin",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "0001628C",
+    "name": "Mzulft",
+    "typeId": 8,
+    "type": "Dwemer Ruin",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "00080E56",
+    "name": "Kagrenzel",
+    "typeId": 8,
+    "type": "Dwemer Ruin",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "00090595",
+    "name": "Raldbthar",
+    "typeId": 8,
+    "type": "Dwemer Ruin",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "000D30DA",
+    "name": "Tower of Mzark",
+    "typeId": 8,
+    "type": "Dwemer Ruin",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "000F81D9",
+    "name": "Great Lift at Raldbthar",
+    "typeId": 8,
+    "type": "Dwemer Ruin",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "000F81DA",
+    "name": "Great Lift at Mzinchaleft",
+    "typeId": 8,
+    "type": "Dwemer Ruin",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "000F81DB",
+    "name": "Great Lift at Alftand",
+    "typeId": 8,
+    "type": "Dwemer Ruin",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "02008257",
+    "name": "Arkngthamz",
+    "typeId": 8,
+    "type": "Dwemer Ruin",
+    "plugin": "Dawnguard.esm"
+  },
+  {
+    "formId": "040143C2",
+    "name": "Fahlbtharz",
+    "typeId": 8,
+    "type": "Dwemer Ruin",
+    "plugin": "Dragonborn.esm"
+  },
+  {
+    "formId": "040143C3",
+    "name": "Kagrumez",
+    "typeId": 8,
+    "type": "Dwemer Ruin",
+    "plugin": "Dragonborn.esm"
+  },
+  {
+    "formId": "040143C9",
+    "name": "Nchardak",
+    "typeId": 8,
+    "type": "Dwemer Ruin",
+    "plugin": "Dragonborn.esm"
+  },
+  {
+    "formId": "000162AA",
+    "name": "Wreck of the Icerunner",
+    "typeId": 9,
+    "type": "Shipwreck",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "000162AB",
+    "name": "Wreck Of The Brinehammer",
+    "typeId": 9,
+    "type": "Shipwreck",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "000162AC",
+    "name": "Hela's Folly",
+    "typeId": 9,
+    "type": "Shipwreck",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "000162AD",
+    "name": "Pilgrim's Trench",
+    "typeId": 9,
+    "type": "Shipwreck",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "000162AE",
+    "name": "Wreck of The Pride of Tel Vos",
+    "typeId": 9,
+    "type": "Shipwreck",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "000162AF",
+    "name": "Wreck of the Winter War",
+    "typeId": 9,
+    "type": "Shipwreck",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "000162B0",
+    "name": "Orphan's Tear",
+    "typeId": 9,
+    "type": "Shipwreck",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "0007BC2D",
+    "name": "Dainty Sload",
+    "typeId": 9,
+    "type": "Shipwreck",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "000C4D20",
+    "name": "The Katariah",
+    "typeId": 9,
+    "type": "Shipwreck",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "02016864",
+    "name": "Windhelm Docks",
+    "typeId": 9,
+    "type": "Shipwreck",
+    "plugin": "Dawnguard.esm"
+  },
+  {
+    "formId": "02019AA5",
+    "name": "Dawnstar Docks",
+    "typeId": 9,
+    "type": "Shipwreck",
+    "plugin": "Dawnguard.esm"
+  },
+  {
+    "formId": "040143CF",
+    "name": "Wreck of the Strident Squall",
+    "typeId": 9,
+    "type": "Shipwreck",
+    "plugin": "Dragonborn.esm"
+  },
+  {
+    "formId": "00016241",
+    "name": "Evergreen Grove",
+    "typeId": 10,
+    "type": "Grove",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "00016269",
+    "name": "Greenspring Hollow",
+    "typeId": 10,
+    "type": "Grove",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "000162B1",
+    "name": "Shrouded Grove",
+    "typeId": 10,
+    "type": "Grove",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "000D28B7",
+    "name": "Giant's Grove",
+    "typeId": 10,
+    "type": "Grove",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "000E1B80",
+    "name": "Witchmist Grove",
+    "typeId": 10,
+    "type": "Grove",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "02004BA5",
+    "name": "Ancestor Glade",
+    "typeId": 10,
+    "type": "Grove",
+    "plugin": "Dawnguard.esm"
+  },
+  {
+    "formId": "0001620E",
+    "name": "Bard's Leap Summit",
+    "typeId": 11,
+    "type": "Landmark",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "00016292",
+    "name": "Orphan Rock",
+    "typeId": 11,
+    "type": "Landmark",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "000162C4",
+    "name": "Throat of the World",
+    "typeId": 11,
+    "type": "Landmark",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "0001637C",
+    "name": "Sky Haven Temple",
+    "typeId": 11,
+    "type": "Landmark",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "000B238F",
+    "name": "Deep Folk Crossing",
+    "typeId": 11,
+    "type": "Landmark",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "000B23A3",
+    "name": "Reachwind Eyrie",
+    "typeId": 11,
+    "type": "Landmark",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "000BC0AA",
+    "name": "Weynon Stones",
+    "typeId": 11,
+    "type": "Landmark",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "000D3939",
+    "name": "Ruins of Rkund",
+    "typeId": 11,
+    "type": "Landmark",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "000D393C",
+    "name": "Ruins of Bthalft",
+    "typeId": 11,
+    "type": "Landmark",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "000DED8E",
+    "name": "Gjukar's Monument",
+    "typeId": 11,
+    "type": "Landmark",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "00105F3A",
+    "name": "Thieves Guild",
+    "typeId": 11,
+    "type": "Landmark",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "040143BD",
+    "name": "Altar of Thrond",
+    "typeId": 11,
+    "type": "Landmark",
+    "plugin": "Dragonborn.esm"
+  },
+  {
+    "formId": "040143C0",
+    "name": "Brodir Grove",
+    "typeId": 11,
+    "type": "Landmark",
+    "plugin": "Dragonborn.esm"
+  },
+  {
+    "formId": "040143C7",
+    "name": "Horker Island",
+    "typeId": 11,
+    "type": "Landmark",
+    "plugin": "Dragonborn.esm"
+  },
+  {
+    "formId": "040296E0",
+    "name": "Stalhrim Source",
+    "typeId": 11,
+    "type": "Landmark",
+    "plugin": "Dragonborn.esm"
+  },
+  {
+    "formId": "040365F1",
+    "name": "Hvitkald Peak",
+    "typeId": 11,
+    "type": "Landmark",
+    "plugin": "Dragonborn.esm"
+  },
+  {
+    "formId": "0403A2C7",
+    "name": "Mount Moesring",
+    "typeId": 11,
+    "type": "Landmark",
+    "plugin": "Dragonborn.esm"
+  },
+  {
+    "formId": "0403A2C9",
+    "name": "Mortrag Peak",
+    "typeId": 11,
+    "type": "Landmark",
+    "plugin": "Dragonborn.esm"
+  },
+  {
+    "formId": "0403A2CB",
+    "name": "Frykte Peak",
+    "typeId": 11,
+    "type": "Landmark",
+    "plugin": "Dragonborn.esm"
+  },
+  {
+    "formId": "00016230",
+    "name": "Dragontooth Crater",
+    "typeId": 12,
+    "type": "Dragon Lair",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "00016231",
+    "name": "Ancient's Ascent",
+    "typeId": 12,
+    "type": "Dragon Lair",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "00016233",
+    "name": "Autumnwatch Tower",
+    "typeId": 12,
+    "type": "Dragon Lair",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "00016234",
+    "name": "Northwind Summit",
+    "typeId": 12,
+    "type": "Dragon Lair",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "00016235",
+    "name": "Lost Tongue Overlook",
+    "typeId": 12,
+    "type": "Dragon Lair",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "00016237",
+    "name": "Shearpoint",
+    "typeId": 12,
+    "type": "Dragon Lair",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "00016238",
+    "name": "Eldersblood Peak",
+    "typeId": 12,
+    "type": "Dragon Lair",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "00016239",
+    "name": "Skyborn Altar",
+    "typeId": 12,
+    "type": "Dragon Lair",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "0001628A",
+    "name": "Mount Anthor",
+    "typeId": 12,
+    "type": "Dragon Lair",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "000162B6",
+    "name": "Bonestrewn Crest",
+    "typeId": 12,
+    "type": "Dragon Lair",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "04019D1C",
+    "name": "Saering's Watch",
+    "typeId": 12,
+    "type": "Dragon Lair",
+    "plugin": "Dragonborn.esm"
+  },
+  {
+    "formId": "00016355",
+    "name": "Hlaalu Farm",
+    "typeId": 13,
+    "type": "Farm",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "00016358",
+    "name": "Hollyfrost Farm",
+    "typeId": 13,
+    "type": "Farm",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "000268FF",
+    "name": "Merryfair Farm",
+    "typeId": 13,
+    "type": "Farm",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "0401A562",
+    "name": "Old Attius Farm",
+    "typeId": 13,
+    "type": "Farm",
+    "plugin": "Dragonborn.esm"
+  },
+  {
+    "formId": "000162D6",
+    "name": "Anga's Mill",
+    "typeId": 14,
+    "type": "Wood Mill",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "0001634F",
+    "name": "Heartwood Mill",
+    "typeId": 14,
+    "type": "Wood Mill",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "0001636D",
+    "name": "Mixwater Mill",
+    "typeId": 14,
+    "type": "Wood Mill",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "00016370",
+    "name": "Half-Moon Mill",
+    "typeId": 14,
+    "type": "Wood Mill",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "00016382",
+    "name": "Solitude Sawmill",
+    "typeId": 14,
+    "type": "Wood Mill",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "00016275",
+    "name": "Bilegulch Mine",
+    "typeId": 15,
+    "type": "Mine",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "00016349",
+    "name": "Gloombound Mine",
+    "typeId": 15,
+    "type": "Mine",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "00016364",
+    "name": "Left Hand Mine",
+    "typeId": 15,
+    "type": "Mine",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "00016385",
+    "name": "Whistling Mine",
+    "typeId": 15,
+    "type": "Mine",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "00017732",
+    "name": "Darkwater Crossing",
+    "typeId": 15,
+    "type": "Mine",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "000177E4",
+    "name": "Stonehills",
+    "typeId": 15,
+    "type": "Mine",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "0002051D",
+    "name": "Kolskeggr Mine",
+    "typeId": 15,
+    "type": "Mine",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "000B6CDF",
+    "name": "Embershard Mine",
+    "typeId": 15,
+    "type": "Mine",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "000D3938",
+    "name": "Lost Prospect Mine",
+    "typeId": 15,
+    "type": "Mine",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "000FDBDE",
+    "name": "Northwind Mine",
+    "typeId": 15,
+    "type": "Mine",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "040143D4",
+    "name": "Broken Tusk Mine",
+    "typeId": 15,
+    "type": "Mine",
+    "plugin": "Dragonborn.esm"
+  },
+  {
+    "formId": "040296DE",
+    "name": "Damphall Mine",
+    "typeId": 15,
+    "type": "Mine",
+    "plugin": "Dragonborn.esm"
+  },
+  {
+    "formId": "00016277",
+    "name": "Reach Imperial Camp",
+    "typeId": 16,
+    "type": "Imperial Camp",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "00016279",
+    "name": "Hjaalmarch Imperial Camp",
+    "typeId": 16,
+    "type": "Imperial Camp",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "0001627B",
+    "name": "Pale Imperial Camp",
+    "typeId": 16,
+    "type": "Imperial Camp",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "0001627D",
+    "name": "Winterhold Imperial Camp",
+    "typeId": 16,
+    "type": "Imperial Camp",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "00016281",
+    "name": "Rift Imperial Camp",
+    "typeId": 16,
+    "type": "Imperial Camp",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "00016283",
+    "name": "Falkreath Imperial Camp",
+    "typeId": 16,
+    "type": "Imperial Camp",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "00016284",
+    "name": "Whiterun Imperial Camp",
+    "typeId": 16,
+    "type": "Imperial Camp",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "0009003B",
+    "name": "Windhelm Military Camp",
+    "typeId": 16,
+    "type": "Imperial Camp",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "00095A08",
+    "name": "Eastmarch Imperial Camp",
+    "typeId": 16,
+    "type": "Imperial Camp",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "000A8844",
+    "name": "Riften Military Camp",
+    "typeId": 16,
+    "type": "Imperial Camp",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "000EC192",
+    "name": "Whiterun Military Camp",
+    "typeId": 16,
+    "type": "Imperial Camp",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "000EC194",
+    "name": "Solitude Military Camp",
+    "typeId": 16,
+    "type": "Imperial Camp",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "000EC196",
+    "name": "Markarth Military Camp",
+    "typeId": 16,
+    "type": "Imperial Camp",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "00016276",
+    "name": "Reach Stormcloak Camp",
+    "typeId": 17,
+    "type": "Stormcloak Camp",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "0001627A",
+    "name": "Hjaalmarch Stormcloak Camp",
+    "typeId": 17,
+    "type": "Stormcloak Camp",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "0001627C",
+    "name": "Pale Stormcloak Camp",
+    "typeId": 17,
+    "type": "Stormcloak Camp",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "0001627E",
+    "name": "Winterhold Stormcloak Camp",
+    "typeId": 17,
+    "type": "Stormcloak Camp",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "00016280",
+    "name": "Rift Stormcloak Camp",
+    "typeId": 17,
+    "type": "Stormcloak Camp",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "00016282",
+    "name": "Falkreath Stormcloak Camp",
+    "typeId": 17,
+    "type": "Stormcloak Camp",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "00034896",
+    "name": "Solitude Military Camp",
+    "typeId": 17,
+    "type": "Stormcloak Camp",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "00094A1F",
+    "name": "Whiterun Military Camp",
+    "typeId": 17,
+    "type": "Stormcloak Camp",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "00094C29",
+    "name": "Markarth Military Camp",
+    "typeId": 17,
+    "type": "Stormcloak Camp",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "00094F96",
+    "name": "Haafingar Stormcloak Camp",
+    "typeId": 17,
+    "type": "Stormcloak Camp",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "00095885",
+    "name": "Whiterun Stormcloak Camp",
+    "typeId": 17,
+    "type": "Stormcloak Camp",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "000EC193",
+    "name": "Windhelm Military Camp",
+    "typeId": 17,
+    "type": "Stormcloak Camp",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "000EC195",
+    "name": "Riften Military Camp",
+    "typeId": 17,
+    "type": "Stormcloak Camp",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "0001BAB9",
+    "name": "The Apprentice Stone",
+    "typeId": 18,
+    "type": "Doomstone",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "0001BABB",
+    "name": "The Lover Stone",
+    "typeId": 18,
+    "type": "Doomstone",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "0001BABD",
+    "name": "The Guardian Stones",
+    "typeId": 18,
+    "type": "Doomstone",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "0001BAC0",
+    "name": "The Steed Stone",
+    "typeId": 18,
+    "type": "Doomstone",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "000D3935",
+    "name": "The Shadow Stone",
+    "typeId": 18,
+    "type": "Doomstone",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "000DD9D5",
+    "name": "The Ritual Stone",
+    "typeId": 18,
+    "type": "Doomstone",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "000DED90",
+    "name": "The Lady Stone",
+    "typeId": 18,
+    "type": "Doomstone",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "000E0ED5",
+    "name": "The Tower Stone",
+    "typeId": 18,
+    "type": "Doomstone",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "000E0F47",
+    "name": "The Lord Stone",
+    "typeId": 18,
+    "type": "Doomstone",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "000E0F4C",
+    "name": "The Atronach Stone",
+    "typeId": 18,
+    "type": "Doomstone",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "000E0F69",
+    "name": "The Serpent Stone",
+    "typeId": 18,
+    "type": "Doomstone",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "00016332",
+    "name": "Battle-Born Farm",
+    "typeId": 19,
+    "type": "Wheat Mill",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "0001633C",
+    "name": "Chillfurrow Farm",
+    "typeId": 19,
+    "type": "Wheat Mill",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "0001634C",
+    "name": "Snow-Shod Farm",
+    "typeId": 19,
+    "type": "Wheat Mill",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "00016367",
+    "name": "Loreius Farm",
+    "typeId": 19,
+    "type": "Wheat Mill",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "00016373",
+    "name": "Pelagia Farm",
+    "typeId": 19,
+    "type": "Wheat Mill",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "00016376",
+    "name": "Salvius Farm",
+    "typeId": 19,
+    "type": "Wheat Mill",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "00016379",
+    "name": "Sarethi Farm",
+    "typeId": 19,
+    "type": "Wheat Mill",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "0001635E",
+    "name": "Katla's Farm",
+    "typeId": 21,
+    "type": "Stable",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "00072879",
+    "name": "Whiterun Stables",
+    "typeId": 21,
+    "type": "Stable",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "00096A46",
+    "name": "Riften Stables",
+    "typeId": 21,
+    "type": "Stable",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "0009846F",
+    "name": "Windhelm Stables",
+    "typeId": 21,
+    "type": "Stable",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "000E962F",
+    "name": "Markarth Stables",
+    "typeId": 21,
+    "type": "Stable",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "0004788C",
+    "name": "Falkreath Watchtower",
+    "typeId": 22,
+    "type": "Imperial Tower",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "000C2EF6",
+    "name": "Snowpoint Beacon",
+    "typeId": 22,
+    "type": "Imperial Tower",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "000D3930",
+    "name": "Rift Watchtower",
+    "typeId": 22,
+    "type": "Imperial Tower",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "000D3934",
+    "name": "Shor's Watchtower",
+    "typeId": 22,
+    "type": "Imperial Tower",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "000DD99A",
+    "name": "Whitewatch Tower",
+    "typeId": 22,
+    "type": "Imperial Tower",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "000ECF49",
+    "name": "Abandoned Prison",
+    "typeId": 22,
+    "type": "Imperial Tower",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "000EF0A7",
+    "name": "Widow's Watch Ruins",
+    "typeId": 22,
+    "type": "Imperial Tower",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "000EF0BA",
+    "name": "Pinefrost Tower",
+    "typeId": 22,
+    "type": "Imperial Tower",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "000EF570",
+    "name": "Refugees' Rest",
+    "typeId": 22,
+    "type": "Imperial Tower",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "00108A58",
+    "name": "Stendarr's Beacon",
+    "typeId": 22,
+    "type": "Imperial Tower",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "0001620C",
+    "name": "Autumnshade Clearing",
+    "typeId": 23,
+    "type": "Clearing",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "00016222",
+    "name": "Clearpine Pond",
+    "typeId": 23,
+    "type": "Clearing",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "00016223",
+    "name": "Clearspring Tarn",
+    "typeId": 23,
+    "type": "Clearing",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "000ECF51",
+    "name": "Mara's Eye Pond",
+    "typeId": 23,
+    "type": "Clearing",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "04039F96",
+    "name": "Headwaters of Harstrad",
+    "typeId": 23,
+    "type": "Clearing",
+    "plugin": "Dragonborn.esm"
+  },
+  {
+    "formId": "000C2EFA",
+    "name": "Wayward Pass",
+    "typeId": 24,
+    "type": "Pass",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "000F5EAF",
+    "name": "South Cold Rock Pass",
+    "typeId": 24,
+    "type": "Pass",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "000F5EB1",
+    "name": "North Cold Rock Pass",
+    "typeId": 24,
+    "type": "Pass",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "020088E0",
+    "name": "Forgotten Vale",
+    "typeId": 24,
+    "type": "Pass",
+    "plugin": "Dawnguard.esm"
+  },
+  {
+    "formId": "040143CE",
+    "name": "Moesring Pass",
+    "typeId": 24,
+    "type": "Pass",
+    "plugin": "Dragonborn.esm"
+  },
+  {
+    "formId": "00016253",
+    "name": "Frostflow Lighthouse",
+    "typeId": 27,
+    "type": "Lighthouse",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "000C016D",
+    "name": "Solitude Lighthouse",
+    "typeId": 27,
+    "type": "Lighthouse",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "0001623E",
+    "name": "Dushnikh Yal",
+    "typeId": 28,
+    "type": "Orc Stronghold",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "0001626F",
+    "name": "Largashbur",
+    "typeId": 28,
+    "type": "Orc Stronghold",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "00016287",
+    "name": "Mor Khazgur",
+    "typeId": 28,
+    "type": "Orc Stronghold",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "0001628D",
+    "name": "Narzulbur",
+    "typeId": 28,
+    "type": "Orc Stronghold",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "00016211",
+    "name": "Bleakwind Basin",
+    "typeId": 29,
+    "type": "Giant Camp",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "00016214",
+    "name": "Blizzard Rest",
+    "typeId": 29,
+    "type": "Giant Camp",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "00016225",
+    "name": "Cradlecrush Rock",
+    "typeId": 29,
+    "type": "Giant Camp",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "0001623A",
+    "name": "Steamcrag Camp",
+    "typeId": 29,
+    "type": "Giant Camp",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "0001625C",
+    "name": "Guldun Rock",
+    "typeId": 29,
+    "type": "Giant Camp",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "000162A0",
+    "name": "Red Road Pass",
+    "typeId": 29,
+    "type": "Giant Camp",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "000162A6",
+    "name": "Secunda's Kiss",
+    "typeId": 29,
+    "type": "Giant Camp",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "000162B8",
+    "name": "Sleeping Tree Camp",
+    "typeId": 29,
+    "type": "Giant Camp",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "000162C1",
+    "name": "Stonehill Bluff",
+    "typeId": 29,
+    "type": "Giant Camp",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "000162C3",
+    "name": "Talking Stone Camp",
+    "typeId": 29,
+    "type": "Giant Camp",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "000162C7",
+    "name": "Tumble Arch Pass",
+    "typeId": 29,
+    "type": "Giant Camp",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "000ECF86",
+    "name": "Broken Limb Camp",
+    "typeId": 29,
+    "type": "Giant Camp",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "00016295",
+    "name": "Pinewatch",
+    "typeId": 30,
+    "type": "Shack",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "0005254D",
+    "name": "Abandoned Shack",
+    "typeId": 30,
+    "type": "Shack",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "000B238B",
+    "name": "Cliffside Retreat",
+    "typeId": 30,
+    "type": "Shack",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "000C2EE9",
+    "name": "Traitor's Post",
+    "typeId": 30,
+    "type": "Shack",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "000C342A",
+    "name": "Hall of the Vigilant",
+    "typeId": 30,
+    "type": "Shack",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "000CF27D",
+    "name": "Angi's Camp",
+    "typeId": 30,
+    "type": "Shack",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "000D392D",
+    "name": "Froki's Shack",
+    "typeId": 30,
+    "type": "Shack",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "000D3931",
+    "name": "Alchemist's Shack",
+    "typeId": 30,
+    "type": "Shack",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "000D9531",
+    "name": "Anise's Cabin",
+    "typeId": 30,
+    "type": "Shack",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "000E66A3",
+    "name": "Lund's Hut",
+    "typeId": 30,
+    "type": "Shack",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "000E66A7",
+    "name": "Crabber's Shanty",
+    "typeId": 30,
+    "type": "Shack",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "000E66AD",
+    "name": "Drelas' Cottage",
+    "typeId": 30,
+    "type": "Shack",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "000ECF4F",
+    "name": "Riverside Shack",
+    "typeId": 30,
+    "type": "Shack",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "000EF543",
+    "name": "Ironback Hideout",
+    "typeId": 30,
+    "type": "Shack",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "000F52B2",
+    "name": "Hunter's Rest",
+    "typeId": 30,
+    "type": "Shack",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "000F6F11",
+    "name": "Meeko's Shack",
+    "typeId": 30,
+    "type": "Shack",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "0200777E",
+    "name": "Redwater Den",
+    "typeId": 30,
+    "type": "Shack",
+    "plugin": "Dawnguard.esm"
+  },
+  {
+    "formId": "040143D6",
+    "name": "Hrodulf's House",
+    "typeId": 30,
+    "type": "Shack",
+    "plugin": "Dragonborn.esm"
+  },
+  {
+    "formId": "04017B68",
+    "name": "Abandoned Lodge",
+    "typeId": 30,
+    "type": "Shack",
+    "plugin": "Dragonborn.esm"
+  },
+  {
+    "formId": "04034EE4",
+    "name": "Ramshackle Trading Post",
+    "typeId": 30,
+    "type": "Shack",
+    "plugin": "Dragonborn.esm"
+  },
+  {
+    "formId": "0001622D",
+    "name": "Dead Crone Rock",
+    "typeId": 31,
+    "type": "Nordic Tower",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "0001628F",
+    "name": "Nilheim",
+    "typeId": 31,
+    "type": "Nordic Tower",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "000162C9",
+    "name": "Valtheim Towers",
+    "typeId": 31,
+    "type": "Nordic Tower",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "0004781E",
+    "name": "Bannermist Tower",
+    "typeId": 31,
+    "type": "Nordic Tower",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "00047880",
+    "name": "Peak's Shade Tower",
+    "typeId": 31,
+    "type": "Nordic Tower",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "000479BB",
+    "name": "South Skybound Watch",
+    "typeId": 31,
+    "type": "Nordic Tower",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "000B23A1",
+    "name": "Cradle Stone Tower",
+    "typeId": 31,
+    "type": "Nordic Tower",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "000B6295",
+    "name": "Sundered Towers",
+    "typeId": 31,
+    "type": "Nordic Tower",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "000BB47C",
+    "name": "Bleakwind Bluff",
+    "typeId": 31,
+    "type": "Nordic Tower",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "0200D165",
+    "name": "Castle Volkihar Balcony",
+    "typeId": 31,
+    "type": "Nordic Tower",
+    "plugin": "Dawnguard.esm"
+  },
+  {
+    "formId": "00047875",
+    "name": "Roadside Ruins",
+    "typeId": 32,
+    "type": "Nordic Dwelling",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "0004B6EB",
+    "name": "North Skybound Watch",
+    "typeId": 32,
+    "type": "Nordic Dwelling",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "000B23A7",
+    "name": "Four Skull Lookout",
+    "typeId": 32,
+    "type": "Nordic Dwelling",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "000C2EEC",
+    "name": "Windward Ruins",
+    "typeId": 32,
+    "type": "Nordic Dwelling",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "000C2EEF",
+    "name": "Kjenstag Ruins",
+    "typeId": 32,
+    "type": "Nordic Dwelling",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "000C33FF",
+    "name": "Yorgrim Overlook",
+    "typeId": 32,
+    "type": "Nordic Dwelling",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "000EAA63",
+    "name": "Lost Valkygg",
+    "typeId": 32,
+    "type": "Nordic Dwelling",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "000EE79C",
+    "name": "Hamvir's Rest",
+    "typeId": 32,
+    "type": "Nordic Dwelling",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "000EF0AE",
+    "name": "Skytemple Ruins",
+    "typeId": 32,
+    "type": "Nordic Dwelling",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "000EF549",
+    "name": "Journeyman's Nook",
+    "typeId": 32,
+    "type": "Nordic Dwelling",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "0200D0AE",
+    "name": "Moldering Ruins",
+    "typeId": 32,
+    "type": "Nordic Dwelling",
+    "plugin": "Dawnguard.esm"
+  },
+  {
+    "formId": "040247C8",
+    "name": "Snowclad Ruins",
+    "typeId": 32,
+    "type": "Nordic Dwelling",
+    "plugin": "Dragonborn.esm"
+  },
+  {
+    "formId": "0004FEF2",
+    "name": "East Empire Company Warehouse",
+    "typeId": 33,
+    "type": "Docks",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "02008E41",
+    "name": "Icewater Jetty",
+    "typeId": 33,
+    "type": "Docks",
+    "plugin": "Dawnguard.esm"
+  },
+  {
+    "formId": "040143DA",
+    "name": "Northshore Landing",
+    "typeId": 33,
+    "type": "Docks",
+    "plugin": "Dragonborn.esm"
+  },
+  {
+    "formId": "0001626D",
+    "name": "Statue to Meridia",
+    "typeId": 34,
+    "type": "Shrine",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "000246A5",
+    "name": "Shrine of Mehrunes Dagon",
+    "typeId": 34,
+    "type": "Shrine",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "0004D8DA",
+    "name": "Sacellum of Boethiah",
+    "typeId": 34,
+    "type": "Shrine",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "00092496",
+    "name": "Shrine of Azura",
+    "typeId": 34,
+    "type": "Shrine",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "000AD066",
+    "name": "Shrine to Peryite",
+    "typeId": 34,
+    "type": "Shrine",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "000C44B1",
+    "name": "Mistveil Keep",
+    "typeId": 35,
+    "type": "Riften Castle",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "0001C390",
+    "name": "Riften",
+    "typeId": 36,
+    "type": "Riften Capitol",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "000C44B3",
+    "name": "Palace of the Kings",
+    "typeId": 37,
+    "type": "Windhelm Castle",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "00038436",
+    "name": "Windhelm",
+    "typeId": 38,
+    "type": "Windhelm Capitol",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "000C44AD",
+    "name": "Dragonsreach",
+    "typeId": 39,
+    "type": "Whiterun Castle",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "000162CE",
+    "name": "Whiterun",
+    "typeId": 40,
+    "type": "Whiterun Capitol",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "000C44AB",
+    "name": "Blue Palace",
+    "typeId": 41,
+    "type": "Solitude Castle",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "0004D0F4",
+    "name": "Solitude",
+    "typeId": 42,
+    "type": "Solitude Capitol",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "000C44AF",
+    "name": "Understone Keep",
+    "typeId": 43,
+    "type": "Markarth Castle",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "0001C38A",
+    "name": "Markarth",
+    "typeId": 44,
+    "type": "Markarth Capitol",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "00046BDF",
+    "name": "College of Winterhold",
+    "typeId": 45,
+    "type": "Winterhold Castle",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "000177EF",
+    "name": "Winterhold",
+    "typeId": 46,
+    "type": "Winterhold Capitol",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "000177B0",
+    "name": "Morthal",
+    "typeId": 48,
+    "type": "Morthal Capitol",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "00017760",
+    "name": "Falkreath",
+    "typeId": 50,
+    "type": "Falkreath Capitol",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "0001773A",
+    "name": "Dawnstar",
+    "typeId": 52,
+    "type": "Dawnstar Capitol",
+    "plugin": "Skyrim.esm"
+  },
+  {
+    "formId": "040143CA",
+    "name": "Temple of Miraak",
+    "typeId": 53,
+    "type": "DLC02 - Temple of Miraak",
+    "plugin": "Dragonborn.esm"
+  },
+  {
+    "formId": "040143DC",
+    "name": "Raven Rock",
+    "typeId": 54,
+    "type": "DLC02 - Raven Rock",
+    "plugin": "Dragonborn.esm"
+  },
+  {
+    "formId": "040143E3",
+    "name": "Beast Stone",
+    "typeId": 55,
+    "type": "DLC02 - Beast Stone",
+    "plugin": "Dragonborn.esm"
+  },
+  {
+    "formId": "040143E4",
+    "name": "Earth Stone",
+    "typeId": 55,
+    "type": "DLC02 - Beast Stone",
+    "plugin": "Dragonborn.esm"
+  },
+  {
+    "formId": "040143E5",
+    "name": "Sun Stone",
+    "typeId": 55,
+    "type": "DLC02 - Beast Stone",
+    "plugin": "Dragonborn.esm"
+  },
+  {
+    "formId": "040143E6",
+    "name": "Water Stone",
+    "typeId": 55,
+    "type": "DLC02 - Beast Stone",
+    "plugin": "Dragonborn.esm"
+  },
+  {
+    "formId": "040143E7",
+    "name": "Wind Stone",
+    "typeId": 55,
+    "type": "DLC02 - Beast Stone",
+    "plugin": "Dragonborn.esm"
+  },
+  {
+    "formId": "040143E8",
+    "name": "Tel Mithryn",
+    "typeId": 56,
+    "type": "DLC02 - Tel Mithryn",
+    "plugin": "Dragonborn.esm"
+  },
+  {
+    "formId": "04016FE6",
+    "name": "Skyrim",
+    "typeId": 57,
+    "type": "DLC02 - To Skyrim",
+    "plugin": "Dragonborn.esm"
+  },
+  {
+    "formId": "04016FE7",
+    "name": "Solstheim",
+    "typeId": 58,
+    "type": "DLC02 - To Solstheim",
+    "plugin": "Dragonborn.esm"
+  }
+]

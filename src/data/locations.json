@@ -1,0 +1,5530 @@
+[
+ {
+  "name": "Abandoned Building",
+  "kind": "exterior",
+  "category": "Citie",
+  "region": "",
+  "dlc": "Dragonborn",
+  "description": "The home of Bralsa Drel and Rirns Llervu in Raven Rock. (map)",
+  "id": "exterior-abandoned-building-abandonedbuilding"
+ },
+ {
+  "name": "Abandoned Building",
+  "kind": "interior",
+  "category": "Interior",
+  "region": "",
+  "dlc": "Dragonborn",
+  "description": "The home of Bralsa Drel and Rirns Llervu in Raven Rock. (map)",
+  "cellId": "DLC2RRAbandonedBuilding",
+  "id": "interior-abandoned-building-dlc2rrabandonedbuilding"
+ },
+ {
+  "name": "Abandoned Cave",
+  "kind": "interior",
+  "category": "Cave",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "cellId": "SightlessPit03",
+  "id": "interior-abandoned-cave-sightlesspit03"
+ },
+ {
+  "name": "Abandoned House",
+  "kind": "interior",
+  "category": "House",
+  "region": "Markarth",
+  "dlc": "Skyrim",
+  "description": "House in Markarth.",
+  "cellId": "MarkarthAbandonedHouse",
+  "id": "interior-abandoned-house-markarthabandonedhouse"
+ },
+ {
+  "name": "Abandoned Lodge",
+  "kind": "exterior",
+  "category": "Shack",
+  "region": "",
+  "dlc": "Dragonborn",
+  "description": "",
+  "formId": "04017B68",
+  "id": "exterior-abandoned-lodge-04017b68"
+ },
+ {
+  "name": "Abandoned Lodge",
+  "kind": "interior",
+  "category": "Interior",
+  "region": "",
+  "dlc": "Dragonborn",
+  "description": "",
+  "cellId": "DLC2AbandonedLodge",
+  "id": "interior-abandoned-lodge-dlc2abandonedlodge"
+ },
+ {
+  "name": "Abandoned Prison",
+  "kind": "exterior",
+  "category": "Imperial Tower",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "000ECF49",
+  "id": "exterior-abandoned-prison-000ecf49"
+ },
+ {
+  "name": "Abandoned Prison",
+  "kind": "interior",
+  "category": "Dungeon",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "cellId": "AbandonedPrison01",
+  "id": "interior-abandoned-prison-abandonedprison01"
+ },
+ {
+  "name": "Abandoned Shack",
+  "kind": "exterior",
+  "category": "Shack",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "0005254D",
+  "id": "exterior-abandoned-shack-0005254d"
+ },
+ {
+  "name": "Abandoned Shack",
+  "kind": "interior",
+  "category": "Interior",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "cellId": "AbandonedShackInterior",
+  "id": "interior-abandoned-shack-abandonedshackinterior"
+ },
+ {
+  "name": "Addvar's House",
+  "kind": "interior",
+  "category": "House",
+  "region": "Solitude",
+  "dlc": "Skyrim",
+  "description": "House in Solitude.",
+  "cellId": "SolitudeAddvarsHouse",
+  "id": "interior-addvar-s-house-solitudeaddvarshouse"
+ },
+ {
+  "name": "Aeri's House",
+  "kind": "interior",
+  "category": "House",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "cellId": "AngasMillAerisHouse",
+  "id": "interior-aeri-s-house-angasmillaerishouse"
+ },
+ {
+  "name": "Aerin's House",
+  "kind": "interior",
+  "category": "House",
+  "region": "Riften",
+  "dlc": "Skyrim",
+  "description": "House in Riften.",
+  "cellId": "RiftenHouseofMjolltheLioness",
+  "id": "interior-aerin-s-house-riftenhouseofmjollthelioness"
+ },
+ {
+  "name": "Aetherium Forge",
+  "kind": "interior",
+  "category": "Shop",
+  "region": "",
+  "dlc": "Dawnguard",
+  "description": "",
+  "cellId": "DLC1Bthalft01",
+  "id": "interior-aetherium-forge-dlc1bthalft01"
+ },
+ {
+  "name": "Alchemist's Shack",
+  "kind": "exterior",
+  "category": "Shack",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "000D3931",
+  "id": "exterior-alchemist-s-shack-000d3931"
+ },
+ {
+  "name": "Alftand",
+  "kind": "exterior",
+  "category": "Dwemer Ruin",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "00015D4A",
+  "id": "exterior-alftand-00015d4a"
+ },
+ {
+  "name": "Alftand Animonculory",
+  "kind": "interior",
+  "category": "Interior",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "cellId": "Alftand02",
+  "id": "interior-alftand-animonculory-alftand02"
+ },
+ {
+  "name": "Alftand Glacial Ruins",
+  "kind": "interior",
+  "category": "Ruin",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "cellId": "Alftand01",
+  "id": "interior-alftand-glacial-ruins-alftand01"
+ },
+ {
+  "name": "Alftand Ruined Tower",
+  "kind": "interior",
+  "category": "Ruin",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "cellId": "AlftandZCell",
+  "id": "interior-alftand-ruined-tower-alftandzcell"
+ },
+ {
+  "name": "All-Maker Stones",
+  "kind": "exterior",
+  "category": "Place",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "Standing stones found in the wilderness of Solstheim",
+  "id": "exterior-all-maker-stones-allmakerstones"
+ },
+ {
+  "name": "Alor House",
+  "kind": "exterior",
+  "category": "Citie",
+  "region": "",
+  "dlc": "Dragonborn",
+  "description": "The home of Fethis Alor and his daughter Dreyla Alor in Raven Rock. (map)",
+  "id": "exterior-alor-house-alorhouse"
+ },
+ {
+  "name": "Alor House",
+  "kind": "interior",
+  "category": "House",
+  "region": "",
+  "dlc": "Dragonborn",
+  "description": "The home of Fethis Alor and his daughter Dreyla Alor in Raven Rock. (map)",
+  "cellId": "DLC2RRAlorHouse",
+  "id": "interior-alor-house-dlc2rralorhouse"
+ },
+ {
+  "name": "Altar of Thrond",
+  "kind": "exterior",
+  "category": "Landmark",
+  "region": "",
+  "dlc": "Dragonborn",
+  "description": "",
+  "formId": "040143BD",
+  "id": "exterior-altar-of-thrond-040143bd"
+ },
+ {
+  "name": "Altar of Thrond Cave",
+  "kind": "interior",
+  "category": "Cave",
+  "region": "",
+  "dlc": "Dragonborn",
+  "description": "",
+  "cellId": "DLC2AltarOfThrond01",
+  "id": "interior-altar-of-thrond-cave-dlc2altarofthrond01"
+ },
+ {
+  "name": "Alva's Cellar",
+  "kind": "interior",
+  "category": "House",
+  "region": "Morthal",
+  "dlc": "Skyrim",
+  "description": "House in Morthal.",
+  "cellId": "MorthalAlvasHouseCellar",
+  "id": "interior-alva-s-cellar-morthalalvashousecellar"
+ },
+ {
+  "name": "Alva's House",
+  "kind": "interior",
+  "category": "House",
+  "region": "Morthal",
+  "dlc": "Skyrim",
+  "description": "House in Morthal.",
+  "cellId": "MorthalAlvasHouse",
+  "id": "interior-alva-s-house-morthalalvashouse"
+ },
+ {
+  "name": "Alvor and Sigrid's House",
+  "kind": "interior",
+  "category": "House",
+  "region": "Riverwood",
+  "dlc": "Skyrim",
+  "description": "House in Riverwood.",
+  "cellId": "RiverwoodAlvorsHouse",
+  "id": "interior-alvor-and-sigrid-s-house-riverwoodalvorshouse"
+ },
+ {
+  "name": "Amren's House",
+  "kind": "interior",
+  "category": "House",
+  "region": "Whiterun",
+  "dlc": "Skyrim",
+  "description": "House in Whiterun.",
+  "cellId": "WhiterunAmrensHouse",
+  "id": "interior-amren-s-house-whiterunamrenshouse"
+ },
+ {
+  "name": "Ancestor Glade",
+  "kind": "exterior",
+  "category": "Grove",
+  "region": "",
+  "dlc": "Dawnguard",
+  "description": "",
+  "formId": "02004BA5",
+  "id": "exterior-ancestor-glade-02004ba5"
+ },
+ {
+  "name": "Ancient's Ascent",
+  "kind": "exterior",
+  "category": "Dragon Lair",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "00016231",
+  "id": "exterior-ancient-s-ascent-00016231"
+ },
+ {
+  "name": "Anga's Mill",
+  "kind": "exterior",
+  "category": "Wood Mill",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "000162D6",
+  "id": "exterior-anga-s-mill-000162d6"
+ },
+ {
+  "name": "Anga's Mill Common House",
+  "kind": "interior",
+  "category": "House",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "cellId": "AngasMillCommonHouse",
+  "id": "interior-anga-s-mill-common-house-angasmillcommonhouse"
+ },
+ {
+  "name": "Angarvunde",
+  "kind": "exterior",
+  "category": "Nordic Ruins",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "00015D51",
+  "id": "exterior-angarvunde-00015d51"
+ },
+ {
+  "name": "Angarvunde",
+  "kind": "interior",
+  "category": "Interior",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "cellId": "Angarvunde01",
+  "id": "interior-angarvunde-angarvunde01"
+ },
+ {
+  "name": "Angarvunde Catacombs",
+  "kind": "interior",
+  "category": "Dungeon",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "cellId": "Angarvunde03",
+  "id": "interior-angarvunde-catacombs-angarvunde03"
+ },
+ {
+  "name": "Angarvunde Ruins",
+  "kind": "interior",
+  "category": "Ruin",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "cellId": "Angarvunde02",
+  "id": "interior-angarvunde-ruins-angarvunde02"
+ },
+ {
+  "name": "Angeline's Aromatics",
+  "kind": "interior",
+  "category": "Interior",
+  "region": "Solitude",
+  "dlc": "Skyrim",
+  "description": "Interior in Solitude.",
+  "cellId": "SolitudeAngelinesAromatics",
+  "id": "interior-angeline-s-aromatics-solitudeangelinesaromatics"
+ },
+ {
+  "name": "Angi's Camp",
+  "kind": "exterior",
+  "category": "Shack",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "000CF27D",
+  "id": "exterior-angi-s-camp-000cf27d"
+ },
+ {
+  "name": "Anise's Cabin",
+  "kind": "exterior",
+  "category": "Shack",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "000D9531",
+  "id": "exterior-anise-s-cabin-000d9531"
+ },
+ {
+  "name": "Ansilvund",
+  "kind": "exterior",
+  "category": "Nordic Ruins",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "00015D56",
+  "id": "exterior-ansilvund-00015d56"
+ },
+ {
+  "name": "Ansilvund Burial Chambers",
+  "kind": "interior",
+  "category": "Interior",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "cellId": "Ansilvund02",
+  "id": "interior-ansilvund-burial-chambers-ansilvund02"
+ },
+ {
+  "name": "Ansilvund Excavation",
+  "kind": "interior",
+  "category": "Interior",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "cellId": "Ansilvund01",
+  "id": "interior-ansilvund-excavation-ansilvund01"
+ },
+ {
+  "name": "Apocrypha",
+  "kind": "exterior",
+  "category": "Beyond Skyrim",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "Hermaeus Mora's plane of Oblivion.",
+  "id": "exterior-apocrypha-apocrypha"
+ },
+ {
+  "name": "Apocrypha",
+  "kind": "interior",
+  "category": "Dungeon",
+  "region": "",
+  "dlc": "Dragonborn",
+  "description": "Hermaeus Mora's plane of Oblivion.",
+  "cellId": "DLC2Book01Dungeon",
+  "id": "interior-apocrypha-dlc2book01dungeon"
+ },
+ {
+  "name": "Apocrypha",
+  "kind": "interior",
+  "category": "Dungeon",
+  "region": "",
+  "dlc": "Dragonborn",
+  "description": "Hermaeus Mora's plane of Oblivion.",
+  "cellId": "DLC2Book02DungeonNEW",
+  "id": "interior-apocrypha-dlc2book02dungeonnew"
+ },
+ {
+  "name": "Apocrypha",
+  "kind": "interior",
+  "category": "Interior",
+  "region": "",
+  "dlc": "Dragonborn",
+  "description": "Hermaeus Mora's plane of Oblivion.",
+  "cellId": "DLC2POIBookLevel03",
+  "id": "interior-apocrypha-dlc2poibooklevel03"
+ },
+ {
+  "name": "Apocrypha",
+  "kind": "interior",
+  "category": "Dungeon",
+  "region": "",
+  "dlc": "Dragonborn",
+  "description": "Hermaeus Mora's plane of Oblivion.",
+  "cellId": "DLC2Book01DungeonA",
+  "id": "interior-apocrypha-dlc2book01dungeona"
+ },
+ {
+  "name": "Apocrypha",
+  "kind": "interior",
+  "category": "Dungeon",
+  "region": "",
+  "dlc": "Dragonborn",
+  "description": "Hermaeus Mora's plane of Oblivion.",
+  "cellId": "DLC2Book03Dungeon",
+  "id": "interior-apocrypha-dlc2book03dungeon"
+ },
+ {
+  "name": "Apocrypha",
+  "kind": "interior",
+  "category": "Interior",
+  "region": "",
+  "dlc": "Dragonborn",
+  "description": "Hermaeus Mora's plane of Oblivion.",
+  "cellId": "DLC2POIBookLevel01",
+  "id": "interior-apocrypha-dlc2poibooklevel01"
+ },
+ {
+  "name": "Apocrypha",
+  "kind": "interior",
+  "category": "Dungeon",
+  "region": "",
+  "dlc": "Dragonborn",
+  "description": "Hermaeus Mora's plane of Oblivion.",
+  "cellId": "DLC2Book07Dungeon",
+  "id": "interior-apocrypha-dlc2book07dungeon"
+ },
+ {
+  "name": "Apocrypha",
+  "kind": "interior",
+  "category": "Interior",
+  "region": "",
+  "dlc": "Dragonborn",
+  "description": "Hermaeus Mora's plane of Oblivion.",
+  "cellId": "DLC2POIBookLevel02",
+  "id": "interior-apocrypha-dlc2poibooklevel02"
+ },
+ {
+  "name": "Arcadia's Cauldron",
+  "kind": "interior",
+  "category": "Inn",
+  "region": "Whiterun",
+  "dlc": "Skyrim",
+  "description": "Inn in Whiterun.",
+  "cellId": "WhiterunArcadiasCauldron",
+  "id": "interior-arcadia-s-cauldron-whiterunarcadiascauldron"
+ },
+ {
+  "name": "Arch-Mage's Quarters",
+  "kind": "interior",
+  "category": "Temple",
+  "region": "Winterhold",
+  "dlc": "Skyrim",
+  "description": "Temple in Winterhold.",
+  "cellId": "WinterholdCollegeArchMageQuarters",
+  "id": "interior-arch-mage-s-quarters-winterholdcollegearchmagequarters"
+ },
+ {
+  "name": "Arcwind Point",
+  "kind": "exterior",
+  "category": "Nordic Ruins",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "000F5FEF",
+  "id": "exterior-arcwind-point-000f5fef"
+ },
+ {
+  "name": "Aretino Residence",
+  "kind": "interior",
+  "category": "House",
+  "region": "Windhelm",
+  "dlc": "Skyrim",
+  "description": "House in Windhelm.",
+  "cellId": "WindhelmAretinoResidence",
+  "id": "interior-aretino-residence-windhelmaretinoresidence"
+ },
+ {
+  "name": "Argonian Assemblage",
+  "kind": "interior",
+  "category": "Interior",
+  "region": "Windhelm",
+  "dlc": "Skyrim",
+  "description": "Interior in Windhelm.",
+  "cellId": "WindhelmArgonianAssemblage",
+  "id": "interior-argonian-assemblage-windhelmargonianassemblage"
+ },
+ {
+  "name": "Arkngthamz",
+  "kind": "exterior",
+  "category": "Dwemer Ruin",
+  "region": "",
+  "dlc": "Dawnguard",
+  "description": "",
+  "formId": "02008257",
+  "id": "exterior-arkngthamz-02008257"
+ },
+ {
+  "name": "Arkngthamz",
+  "kind": "interior",
+  "category": "Interior",
+  "region": "",
+  "dlc": "Dawnguard",
+  "description": "",
+  "cellId": "DLC1Arkngthamz01",
+  "id": "interior-arkngthamz-dlc1arkngthamz01"
+ },
+ {
+  "name": "Arnleif and Sons Trading Company",
+  "kind": "interior",
+  "category": "Interior",
+  "region": "Markarth",
+  "dlc": "Skyrim",
+  "description": "Interior in Markarth.",
+  "cellId": "MarkarthArnleifandSonsTradingCompany",
+  "id": "interior-arnleif-and-sons-trading-company-markartharnleifandsonstradingcompany"
+ },
+ {
+  "name": "Ashfallow Citadel",
+  "kind": "exterior",
+  "category": "Fort",
+  "region": "",
+  "dlc": "Dragonborn",
+  "description": "",
+  "formId": "040143D8",
+  "id": "exterior-ashfallow-citadel-040143d8"
+ },
+ {
+  "name": "Ashfallow Citadel",
+  "kind": "interior",
+  "category": "Fort",
+  "region": "",
+  "dlc": "Dragonborn",
+  "description": "",
+  "cellId": "DLC2AshfallowCitadel01",
+  "id": "interior-ashfallow-citadel-dlc2ashfallowcitadel01"
+ },
+ {
+  "name": "Atheron Residence",
+  "kind": "interior",
+  "category": "House",
+  "region": "Windhelm",
+  "dlc": "Skyrim",
+  "description": "House in Windhelm.",
+  "cellId": "WindhelmAtheronResidence",
+  "id": "interior-atheron-residence-windhelmatheronresidence"
+ },
+ {
+  "name": "Autumnshade Clearing",
+  "kind": "exterior",
+  "category": "Clearing",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "0001620C",
+  "id": "exterior-autumnshade-clearing-0001620c"
+ },
+ {
+  "name": "Autumnwatch Tower",
+  "kind": "exterior",
+  "category": "Dragon Lair",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "00016233",
+  "id": "exterior-autumnwatch-tower-00016233"
+ },
+ {
+  "name": "Avanchnzel",
+  "kind": "exterior",
+  "category": "Dwemer Ruin",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "0001620D",
+  "id": "exterior-avanchnzel-0001620d"
+ },
+ {
+  "name": "Avanchnzel",
+  "kind": "interior",
+  "category": "Interior",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "cellId": "Avanchnzel01",
+  "id": "interior-avanchnzel-avanchnzel01"
+ },
+ {
+  "name": "Avanchnzel Animoncultory",
+  "kind": "interior",
+  "category": "Interior",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "cellId": "Avanchnzel02",
+  "id": "interior-avanchnzel-animoncultory-avanchnzel02"
+ },
+ {
+  "name": "Avanchnzel Boilery",
+  "kind": "interior",
+  "category": "Interior",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "cellId": "Avanchnzel03",
+  "id": "interior-avanchnzel-boilery-avanchnzel03"
+ },
+ {
+  "name": "Azura Voice Cell",
+  "kind": "interior",
+  "category": "Interior",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "cellId": "AzuraVoiceCell",
+  "id": "interior-azura-voice-cell-azuravoicecell"
+ },
+ {
+  "name": "Azura's Star Interior",
+  "kind": "exterior",
+  "category": "Beyond Skyrim",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "A small alternate dimension within Azura's Star containing Malyn Varen and any Dremora that he summons.",
+  "id": "exterior-azura-s-star-interior-azurasstarinterior"
+ },
+ {
+  "name": "Azura's Star Interior",
+  "kind": "interior",
+  "category": "Interior",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "A small alternate dimension within Azura's Star containing Malyn Varen and any Dremora that he summons.",
+  "cellId": "AzurasStarInterior01",
+  "id": "interior-azura-s-star-interior-azurasstarinterior01"
+ },
+ {
+  "name": "Baldor Iron-Shaper's House",
+  "kind": "exterior",
+  "category": "Town",
+  "region": "",
+  "dlc": "Dragonborn",
+  "description": "The home of Baldor Iron-Shaper in Skaal Village. (map)",
+  "id": "exterior-baldor-iron-shaper-s-house-baldorironshapershouse"
+ },
+ {
+  "name": "Baldor Iron-Shaper's House",
+  "kind": "interior",
+  "category": "House",
+  "region": "",
+  "dlc": "Dragonborn",
+  "description": "The home of Baldor Iron-Shaper in Skaal Village. (map)",
+  "cellId": "DLC2SVBaldorIronShapersHouse",
+  "id": "interior-baldor-iron-shaper-s-house-dlc2svbaldorironshapershouse"
+ },
+ {
+  "name": "Bannermist Tower",
+  "kind": "exterior",
+  "category": "Nordic Tower",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "0004781E",
+  "id": "exterior-bannermist-tower-0004781e"
+ },
+ {
+  "name": "Bard Holding Cell",
+  "kind": "interior",
+  "category": "Ruin",
+  "region": "",
+  "dlc": "Dragonborn",
+  "description": "",
+  "cellId": "DLC2HoldingCellBard",
+  "id": "interior-bard-holding-cell-dlc2holdingcellbard"
+ },
+ {
+  "name": "Bard's Leap Summit",
+  "kind": "exterior",
+  "category": "Landmark",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "0001620E",
+  "id": "exterior-bard-s-leap-summit-0001620e"
+ },
+ {
+  "name": "Bards College",
+  "kind": "interior",
+  "category": "Temple",
+  "region": "Solitude",
+  "dlc": "Skyrim",
+  "description": "Temple in Solitude.",
+  "cellId": "SolitudeBardsCollege",
+  "id": "interior-bards-college-solitudebardscollege"
+ },
+ {
+  "name": "Barracks",
+  "kind": "exterior",
+  "category": "Place",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "Guard barracks throughout Skyrim",
+  "id": "exterior-barracks-barracks"
+ },
+ {
+  "name": "Battle-Born Farm",
+  "kind": "exterior",
+  "category": "Wheat Mill",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "00016332",
+  "id": "exterior-battle-born-farm-00016332"
+ },
+ {
+  "name": "Beast Stone",
+  "kind": "exterior",
+  "category": "DLC02 - Beast Stone",
+  "region": "",
+  "dlc": "Dragonborn",
+  "description": "",
+  "formId": "040143E3",
+  "id": "exterior-beast-stone-040143e3"
+ },
+ {
+  "name": "Benkongerike",
+  "kind": "exterior",
+  "category": "Cave",
+  "region": "",
+  "dlc": "Dragonborn",
+  "description": "",
+  "formId": "040143BE",
+  "id": "exterior-benkongerike-040143be"
+ },
+ {
+  "name": "Bilegulch Mine",
+  "kind": "exterior",
+  "category": "Mine",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "00016275",
+  "id": "exterior-bilegulch-mine-00016275"
+ },
+ {
+  "name": "Black-Briar Lodge",
+  "kind": "exterior",
+  "category": "Settlement",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "000A7CE5",
+  "id": "exterior-black-briar-lodge-000a7ce5"
+ },
+ {
+  "name": "Bleak Falls Barrow",
+  "kind": "exterior",
+  "category": "Nordic Ruins",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "00016232",
+  "id": "exterior-bleak-falls-barrow-00016232"
+ },
+ {
+  "name": "Bleakcoast Cave",
+  "kind": "exterior",
+  "category": "Cave",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "0001620F",
+  "id": "exterior-bleakcoast-cave-0001620f"
+ },
+ {
+  "name": "Bleakwind Basin",
+  "kind": "exterior",
+  "category": "Giant Camp",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "00016211",
+  "id": "exterior-bleakwind-basin-00016211"
+ },
+ {
+  "name": "Bleakwind Bluff",
+  "kind": "exterior",
+  "category": "Nordic Tower",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "000BB47C",
+  "id": "exterior-bleakwind-bluff-000bb47c"
+ },
+ {
+  "name": "Blind Cliff Cave",
+  "kind": "exterior",
+  "category": "Cave",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "00016213",
+  "id": "exterior-blind-cliff-cave-00016213"
+ },
+ {
+  "name": "Blizzard Rest",
+  "kind": "exterior",
+  "category": "Giant Camp",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "00016214",
+  "id": "exterior-blizzard-rest-00016214"
+ },
+ {
+  "name": "Bloated Man's Grotto",
+  "kind": "exterior",
+  "category": "Cave",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "00016215",
+  "id": "exterior-bloated-man-s-grotto-00016215"
+ },
+ {
+  "name": "Bloodlet Throne",
+  "kind": "exterior",
+  "category": "Fort",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "00016EB2",
+  "id": "exterior-bloodlet-throne-00016eb2"
+ },
+ {
+  "name": "Bloodskal Barrow",
+  "kind": "exterior",
+  "category": "Nordic Ruins",
+  "region": "",
+  "dlc": "Dragonborn",
+  "description": "",
+  "formId": "040143BF",
+  "id": "exterior-bloodskal-barrow-040143bf"
+ },
+ {
+  "name": "Blue Palace",
+  "kind": "exterior",
+  "category": "Solitude Castle",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "000C44AB",
+  "id": "exterior-blue-palace-000c44ab"
+ },
+ {
+  "name": "Bodies of Water",
+  "kind": "exterior",
+  "category": "Place",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "Lakes, rivers, and seas",
+  "id": "exterior-bodies-of-water-bodiesofwater"
+ },
+ {
+  "name": "Bonechill Passage",
+  "kind": "exterior",
+  "category": "Cave",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "000FDA48",
+  "id": "exterior-bonechill-passage-000fda48"
+ },
+ {
+  "name": "Bonestrewn Crest",
+  "kind": "exterior",
+  "category": "Dragon Lair",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "000162B6",
+  "id": "exterior-bonestrewn-crest-000162b6"
+ },
+ {
+  "name": "Boneyard",
+  "kind": "exterior",
+  "category": "Beyond Skyrim",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "An enclosed graveyard in the Soul Cairn.",
+  "id": "exterior-boneyard-boneyard"
+ },
+ {
+  "name": "Boulderfall Cave",
+  "kind": "exterior",
+  "category": "Cave",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "000F52D8",
+  "id": "exterior-boulderfall-cave-000f52d8"
+ },
+ {
+  "name": "Brandy-Mug Farm",
+  "kind": "exterior",
+  "category": "Settlement",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "00016339",
+  "id": "exterior-brandy-mug-farm-00016339"
+ },
+ {
+  "name": "Brinewater Grotto",
+  "kind": "exterior",
+  "category": "Cave",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "0002C652",
+  "id": "exterior-brinewater-grotto-0002c652"
+ },
+ {
+  "name": "Bristleback Cave",
+  "kind": "exterior",
+  "category": "Cave",
+  "region": "",
+  "dlc": "Dragonborn",
+  "description": "",
+  "formId": "0401BC48",
+  "id": "exterior-bristleback-cave-0401bc48"
+ },
+ {
+  "name": "Brodir Grove",
+  "kind": "exterior",
+  "category": "Landmark",
+  "region": "",
+  "dlc": "Dragonborn",
+  "description": "",
+  "formId": "040143C0",
+  "id": "exterior-brodir-grove-040143c0"
+ },
+ {
+  "name": "Broken Fang Cave",
+  "kind": "exterior",
+  "category": "Cave",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "00016218",
+  "id": "exterior-broken-fang-cave-00016218"
+ },
+ {
+  "name": "Broken Helm Hollow",
+  "kind": "exterior",
+  "category": "Cave",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "00016219",
+  "id": "exterior-broken-helm-hollow-00016219"
+ },
+ {
+  "name": "Broken Limb Camp",
+  "kind": "exterior",
+  "category": "Giant Camp",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "000ECF86",
+  "id": "exterior-broken-limb-camp-000ecf86"
+ },
+ {
+  "name": "Broken Oar Grotto",
+  "kind": "exterior",
+  "category": "Cave",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "000B77C3",
+  "id": "exterior-broken-oar-grotto-000b77c3"
+ },
+ {
+  "name": "Broken Tower Redoubt",
+  "kind": "exterior",
+  "category": "Fort",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "0001621A",
+  "id": "exterior-broken-tower-redoubt-0001621a"
+ },
+ {
+  "name": "Broken Tusk Mine",
+  "kind": "exterior",
+  "category": "Mine",
+  "region": "",
+  "dlc": "Dragonborn",
+  "description": "",
+  "formId": "040143D4",
+  "id": "exterior-broken-tusk-mine-040143d4"
+ },
+ {
+  "name": "Bronze Water Cave",
+  "kind": "exterior",
+  "category": "Cave",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "00046BAB",
+  "id": "exterior-bronze-water-cave-00046bab"
+ },
+ {
+  "name": "Brood Cavern",
+  "kind": "exterior",
+  "category": "Cave",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "0001621B",
+  "id": "exterior-brood-cavern-0001621b"
+ },
+ {
+  "name": "Bruca's Leap Redoubt",
+  "kind": "exterior",
+  "category": "Cave",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "0001621C",
+  "id": "exterior-bruca-s-leap-redoubt-0001621c"
+ },
+ {
+  "name": "Bthardamz",
+  "kind": "exterior",
+  "category": "Dwemer Ruin",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "0001621D",
+  "id": "exterior-bthardamz-0001621d"
+ },
+ {
+  "name": "Bujold's Retreat",
+  "kind": "exterior",
+  "category": "Camp",
+  "region": "",
+  "dlc": "Dragonborn",
+  "description": "",
+  "formId": "040143D0",
+  "id": "exterior-bujold-s-retreat-040143d0"
+ },
+ {
+  "name": "Caerellius House",
+  "kind": "exterior",
+  "category": "Citie",
+  "region": "",
+  "dlc": "Dragonborn",
+  "description": "The home of Crescius Caerellius and Aphia Velothi in Raven Rock. (map)",
+  "id": "exterior-caerellius-house-caerelliushouse"
+ },
+ {
+  "name": "Castle Karstaag Caverns",
+  "kind": "exterior",
+  "category": "Cave",
+  "region": "",
+  "dlc": "Dragonborn",
+  "description": "",
+  "formId": "04018ED8",
+  "id": "exterior-castle-karstaag-caverns-04018ed8"
+ },
+ {
+  "name": "Castle Karstaag Ruins",
+  "kind": "exterior",
+  "category": "Cave",
+  "region": "",
+  "dlc": "Dragonborn",
+  "description": "",
+  "formId": "040143C1",
+  "id": "exterior-castle-karstaag-ruins-040143c1"
+ },
+ {
+  "name": "Castle Volkihar",
+  "kind": "exterior",
+  "category": "Fort",
+  "region": "",
+  "dlc": "Dawnguard",
+  "description": "",
+  "formId": "0200BA4D",
+  "id": "exterior-castle-volkihar-0200ba4d"
+ },
+ {
+  "name": "Castle Volkihar Balcony",
+  "kind": "exterior",
+  "category": "Nordic Tower",
+  "region": "",
+  "dlc": "Dawnguard",
+  "description": "",
+  "formId": "0200D165",
+  "id": "exterior-castle-volkihar-balcony-0200d165"
+ },
+ {
+  "name": "Castles",
+  "kind": "exterior",
+  "category": "Place",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "Castles and Jarl longhouses",
+  "id": "exterior-castles-castles"
+ },
+ {
+  "name": "Cemeteries",
+  "kind": "exterior",
+  "category": "Place",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "Where the dead of Skyrim are buried",
+  "id": "exterior-cemeteries-cemeteries"
+ },
+ {
+  "name": "Chillfurrow Farm",
+  "kind": "exterior",
+  "category": "Wheat Mill",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "0001633C",
+  "id": "exterior-chillfurrow-farm-0001633c"
+ },
+ {
+  "name": "Chillwind Depths",
+  "kind": "exterior",
+  "category": "Cave",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "00016220",
+  "id": "exterior-chillwind-depths-00016220"
+ },
+ {
+  "name": "Clearpine Pond",
+  "kind": "exterior",
+  "category": "Clearing",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "00016222",
+  "id": "exterior-clearpine-pond-00016222"
+ },
+ {
+  "name": "Clearspring Tarn",
+  "kind": "exterior",
+  "category": "Clearing",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "00016223",
+  "id": "exterior-clearspring-tarn-00016223"
+ },
+ {
+  "name": "Cliffside Retreat",
+  "kind": "exterior",
+  "category": "Shack",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "000B238B",
+  "id": "exterior-cliffside-retreat-000b238b"
+ },
+ {
+  "name": "College of Winterhold",
+  "kind": "exterior",
+  "category": "Winterhold Castle",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "00046BDF",
+  "id": "exterior-college-of-winterhold-00046bdf"
+ },
+ {
+  "name": "console",
+  "kind": "interior",
+  "category": "Interior",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "cellId": "console",
+  "id": "interior-console-console"
+ },
+ {
+  "name": "Crabber's Shanty",
+  "kind": "exterior",
+  "category": "Shack",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "000E66A7",
+  "id": "exterior-crabber-s-shanty-000e66a7"
+ },
+ {
+  "name": "Cracked Tusk Keep",
+  "kind": "exterior",
+  "category": "Fort",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "0001625B",
+  "id": "exterior-cracked-tusk-keep-0001625b"
+ },
+ {
+  "name": "Cradle Stone Tower",
+  "kind": "exterior",
+  "category": "Nordic Tower",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "000B23A1",
+  "id": "exterior-cradle-stone-tower-000b23a1"
+ },
+ {
+  "name": "Cradlecrush Rock",
+  "kind": "exterior",
+  "category": "Giant Camp",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "00016225",
+  "id": "exterior-cradlecrush-rock-00016225"
+ },
+ {
+  "name": "Cragslane Cavern",
+  "kind": "exterior",
+  "category": "Cave",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "00016226",
+  "id": "exterior-cragslane-cavern-00016226"
+ },
+ {
+  "name": "Cragwallow Slope",
+  "kind": "exterior",
+  "category": "Cave",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "00016227",
+  "id": "exterior-cragwallow-slope-00016227"
+ },
+ {
+  "name": "Cronvangr Cave",
+  "kind": "exterior",
+  "category": "Cave",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "00016228",
+  "id": "exterior-cronvangr-cave-00016228"
+ },
+ {
+  "name": "Crystaldrift Cave",
+  "kind": "exterior",
+  "category": "Cave",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "00016229",
+  "id": "exterior-crystaldrift-cave-00016229"
+ },
+ {
+  "name": "Dainty Sload",
+  "kind": "exterior",
+  "category": "Shipwreck",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "0007BC2D",
+  "id": "exterior-dainty-sload-0007bc2d"
+ },
+ {
+  "name": "Damphall Mine",
+  "kind": "exterior",
+  "category": "Mine",
+  "region": "",
+  "dlc": "Dragonborn",
+  "description": "",
+  "formId": "040296DE",
+  "id": "exterior-damphall-mine-040296de"
+ },
+ {
+  "name": "Dark Brotherhood Sanctuary",
+  "kind": "exterior",
+  "category": "Settlement",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "0001C3B0",
+  "id": "exterior-dark-brotherhood-sanctuary-0001c3b0"
+ },
+ {
+  "name": "Darkfall Cave",
+  "kind": "exterior",
+  "category": "Cave",
+  "region": "",
+  "dlc": "Dawnguard",
+  "description": "",
+  "formId": "02004C0F",
+  "id": "exterior-darkfall-cave-02004c0f"
+ },
+ {
+  "name": "Darkfall Grotto",
+  "kind": "exterior",
+  "category": "Beyond Skyrim",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "A small cave in the Forgotten Vale.",
+  "id": "exterior-darkfall-grotto-darkfallgrotto"
+ },
+ {
+  "name": "Darklight Tower",
+  "kind": "exterior",
+  "category": "Fort",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "0001622A",
+  "id": "exterior-darklight-tower-0001622a"
+ },
+ {
+  "name": "Darkshade",
+  "kind": "exterior",
+  "category": "Cave",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "000B6046",
+  "id": "exterior-darkshade-000b6046"
+ },
+ {
+  "name": "Darkwater Crossing",
+  "kind": "exterior",
+  "category": "Mine",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "00017732",
+  "id": "exterior-darkwater-crossing-00017732"
+ },
+ {
+  "name": "Darkwater Pass",
+  "kind": "exterior",
+  "category": "Cave",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "0001622C",
+  "id": "exterior-darkwater-pass-0001622c"
+ },
+ {
+  "name": "Dawnstar",
+  "kind": "exterior",
+  "category": "Dawnstar Capitol",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "0001773A",
+  "id": "exterior-dawnstar-0001773a"
+ },
+ {
+  "name": "Dawnstar Docks",
+  "kind": "exterior",
+  "category": "Shipwreck",
+  "region": "",
+  "dlc": "Dawnguard",
+  "description": "",
+  "formId": "02019AA5",
+  "id": "exterior-dawnstar-docks-02019aa5"
+ },
+ {
+  "name": "Dawnstar Sanctuary",
+  "kind": "exterior",
+  "category": "Settlement",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "0005E0A6",
+  "id": "exterior-dawnstar-sanctuary-0005e0a6"
+ },
+ {
+  "name": "Dayspring Canyon",
+  "kind": "exterior",
+  "category": "Beyond Skyrim",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "The wilderness area surrounding Fort Dawnguard, accessed through a cave entrance southeast of Riften. (map)",
+  "id": "exterior-dayspring-canyon-dayspringcanyon"
+ },
+ {
+  "name": "Dead Crone Rock",
+  "kind": "exterior",
+  "category": "Nordic Tower",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "0001622D",
+  "id": "exterior-dead-crone-rock-0001622d"
+ },
+ {
+  "name": "Dead Drop Falls",
+  "kind": "exterior",
+  "category": "Beyond Skyrim",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "A medium-sized cave in Fort Dawnguard.",
+  "id": "exterior-dead-drop-falls-deaddropfalls"
+ },
+ {
+  "name": "Dead Men's Respite",
+  "kind": "exterior",
+  "category": "Nordic Ruins",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "0001622E",
+  "id": "exterior-dead-men-s-respite-0001622e"
+ },
+ {
+  "name": "Deadlands",
+  "kind": "exterior",
+  "category": "Beyond Skyrim",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "A plane of Oblivion belonging to Mehrunes Dagon.",
+  "id": "exterior-deadlands-deadlands"
+ },
+ {
+  "name": "Deep Folk Crossing",
+  "kind": "exterior",
+  "category": "Landmark",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "000B238F",
+  "id": "exterior-deep-folk-crossing-000b238f"
+ },
+ {
+  "name": "Deepwood Redoubt",
+  "kind": "exterior",
+  "category": "Nordic Ruins",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "0001622F",
+  "id": "exterior-deepwood-redoubt-0001622f"
+ },
+ {
+  "name": "Delver (40 points/Silver)",
+  "kind": "exterior",
+  "category": "Achievement",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "Clear 50 dungeons",
+  "id": "exterior-delver-40-points-silver-delver"
+ },
+ {
+  "name": "Deor Woodcutter's House",
+  "kind": "exterior",
+  "category": "Town",
+  "region": "",
+  "dlc": "Dragonborn",
+  "description": "The home of Deor Woodcutter and Yrsa in Skaal Village. (map)",
+  "id": "exterior-deor-woodcutter-s-house-deorwoodcuttershouse"
+ },
+ {
+  "name": "Dimhollow Crypt",
+  "kind": "exterior",
+  "category": "Cave",
+  "region": "",
+  "dlc": "Dawnguard",
+  "description": "",
+  "formId": "02002F6F",
+  "id": "exterior-dimhollow-crypt-02002f6f"
+ },
+ {
+  "name": "Dragon Bridge",
+  "kind": "exterior",
+  "category": "Town",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "00017753",
+  "id": "exterior-dragon-bridge-00017753"
+ },
+ {
+  "name": "Dragon Bridge Overlook",
+  "kind": "exterior",
+  "category": "Camp",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "000B2393",
+  "id": "exterior-dragon-bridge-overlook-000b2393"
+ },
+ {
+  "name": "Dragon Mounds",
+  "kind": "exterior",
+  "category": "Place",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "Sites where Dragons were buried",
+  "id": "exterior-dragon-mounds-dragonmounds"
+ },
+ {
+  "name": "Dragonsreach",
+  "kind": "exterior",
+  "category": "Whiterun Castle",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "000C44AD",
+  "id": "exterior-dragonsreach-000c44ad"
+ },
+ {
+  "name": "Dragontooth Crater",
+  "kind": "exterior",
+  "category": "Dragon Lair",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "00016230",
+  "id": "exterior-dragontooth-crater-00016230"
+ },
+ {
+  "name": "Drelas' Cottage",
+  "kind": "exterior",
+  "category": "Shack",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "000E66AD",
+  "id": "exterior-drelas-cottage-000e66ad"
+ },
+ {
+  "name": "Driftshade Refuge",
+  "kind": "exterior",
+  "category": "Fort",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "0001623B",
+  "id": "exterior-driftshade-refuge-0001623b"
+ },
+ {
+  "name": "Druadach Redoubt",
+  "kind": "exterior",
+  "category": "Camp",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "0001623C",
+  "id": "exterior-druadach-redoubt-0001623c"
+ },
+ {
+  "name": "Dushnikh Yal",
+  "kind": "exterior",
+  "category": "Orc Stronghold",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "0001623E",
+  "id": "exterior-dushnikh-yal-0001623e"
+ },
+ {
+  "name": "Duskglow Crevice",
+  "kind": "exterior",
+  "category": "Cave",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "0001623F",
+  "id": "exterior-duskglow-crevice-0001623f"
+ },
+ {
+  "name": "Dustman's Cairn",
+  "kind": "exterior",
+  "category": "Nordic Ruins",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "000F5B8D",
+  "id": "exterior-dustman-s-cairn-000f5b8d"
+ },
+ {
+  "name": "Earth Stone",
+  "kind": "exterior",
+  "category": "DLC02 - Beast Stone",
+  "region": "",
+  "dlc": "Dragonborn",
+  "description": "",
+  "formId": "040143E4",
+  "id": "exterior-earth-stone-040143e4"
+ },
+ {
+  "name": "East Empire Company Warehouse",
+  "kind": "exterior",
+  "category": "Docks",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "0004FEF2",
+  "id": "exterior-east-empire-company-warehouse-0004fef2"
+ },
+ {
+  "name": "Eastmarch Imperial Camp",
+  "kind": "exterior",
+  "category": "Imperial Camp",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "00095A08",
+  "id": "exterior-eastmarch-imperial-camp-00095a08"
+ },
+ {
+  "name": "Edla's House",
+  "kind": "exterior",
+  "category": "Town",
+  "region": "",
+  "dlc": "Dragonborn",
+  "description": "The home of Edla and her son Nikulas in Skaal Village. (map)",
+  "id": "exterior-edla-s-house-edlashouse"
+ },
+ {
+  "name": "Eldergleam Sanctuary",
+  "kind": "exterior",
+  "category": "Cave",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "000162B7",
+  "id": "exterior-eldergleam-sanctuary-000162b7"
+ },
+ {
+  "name": "Eldersblood Peak",
+  "kind": "exterior",
+  "category": "Dragon Lair",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "00016238",
+  "id": "exterior-eldersblood-peak-00016238"
+ },
+ {
+  "name": "Embershard Mine",
+  "kind": "exterior",
+  "category": "Mine",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "000B6CDF",
+  "id": "exterior-embershard-mine-000b6cdf"
+ },
+ {
+  "name": "Evergreen Grove",
+  "kind": "exterior",
+  "category": "Grove",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "00016241",
+  "id": "exterior-evergreen-grove-00016241"
+ },
+ {
+  "name": "Explorer (40 points/Silver)",
+  "kind": "exterior",
+  "category": "Achievement",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "Discover 100 locations",
+  "id": "exterior-explorer-40-points-silver-explorer"
+ },
+ {
+  "name": "Fahlbtharz",
+  "kind": "exterior",
+  "category": "Dwemer Ruin",
+  "region": "",
+  "dlc": "Dragonborn",
+  "description": "",
+  "formId": "040143C2",
+  "id": "exterior-fahlbtharz-040143c2"
+ },
+ {
+  "name": "Faldar's Tooth",
+  "kind": "exterior",
+  "category": "Fort",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "00016242",
+  "id": "exterior-faldar-s-tooth-00016242"
+ },
+ {
+  "name": "Falkreath",
+  "kind": "exterior",
+  "category": "Falkreath Capitol",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "00017760",
+  "id": "exterior-falkreath-00017760"
+ },
+ {
+  "name": "Falkreath Imperial Camp",
+  "kind": "exterior",
+  "category": "Imperial Camp",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "00016283",
+  "id": "exterior-falkreath-imperial-camp-00016283"
+ },
+ {
+  "name": "Falkreath Stormcloak Camp",
+  "kind": "exterior",
+  "category": "Stormcloak Camp",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "00016282",
+  "id": "exterior-falkreath-stormcloak-camp-00016282"
+ },
+ {
+  "name": "Falkreath Watchtower",
+  "kind": "exterior",
+  "category": "Imperial Tower",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "0004788C",
+  "id": "exterior-falkreath-watchtower-0004788c"
+ },
+ {
+  "name": "Fallowstone Cave",
+  "kind": "exterior",
+  "category": "Cave",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "00016243",
+  "id": "exterior-fallowstone-cave-00016243"
+ },
+ {
+  "name": "Fellglow Keep",
+  "kind": "exterior",
+  "category": "Fort",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "00016244",
+  "id": "exterior-fellglow-keep-00016244"
+ },
+ {
+  "name": "Ferry Drop off Marker",
+  "kind": "exterior",
+  "category": "None",
+  "region": "",
+  "dlc": "Dawnguard",
+  "description": "",
+  "formId": "02016866",
+  "id": "exterior-ferry-drop-off-marker-02016866"
+ },
+ {
+  "name": "Folgunthur",
+  "kind": "exterior",
+  "category": "Nordic Ruins",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "00016246",
+  "id": "exterior-folgunthur-00016246"
+ },
+ {
+  "name": "Forebears' Holdout",
+  "kind": "exterior",
+  "category": "Cave",
+  "region": "",
+  "dlc": "Dawnguard",
+  "description": "",
+  "formId": "02003CFE",
+  "id": "exterior-forebears-holdout-02003cfe"
+ },
+ {
+  "name": "Forelhost",
+  "kind": "exterior",
+  "category": "Nordic Ruins",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "00016247",
+  "id": "exterior-forelhost-00016247"
+ },
+ {
+  "name": "Forgotten Vale",
+  "kind": "exterior",
+  "category": "Pass",
+  "region": "",
+  "dlc": "Dawnguard",
+  "description": "An isolated region in northwestern Skyrim once inhabited by the Snow Elves worshipping the god Auri-El. (map)",
+  "formId": "020088E0",
+  "id": "exterior-forgotten-vale-020088e0"
+ },
+ {
+  "name": "Forgotten Vale Cave",
+  "kind": "exterior",
+  "category": "Beyond Skyrim",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "A small cave in the Forgotten Vale containing chaurus and one of the rare shellbugs.",
+  "id": "exterior-forgotten-vale-cave-forgottenvalecave"
+ },
+ {
+  "name": "Forgotten Vale Forest",
+  "kind": "exterior",
+  "category": "Beyond Skyrim",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "A small grove in the Forgotten Vale, which can only be accessed by using the paragon platform with the ruby paragon.",
+  "id": "exterior-forgotten-vale-forest-forgottenvaleforest"
+ },
+ {
+  "name": "Forgotten Vale Overlook",
+  "kind": "exterior",
+  "category": "Beyond Skyrim",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "A small river valley in the Forgotten Vale, which can be accessed by using the paragon platform with the emerald paragon.",
+  "id": "exterior-forgotten-vale-overlook-forgottenvaleoverlook"
+ },
+ {
+  "name": "Forsaken Cave",
+  "kind": "exterior",
+  "category": "Cave",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "00016248",
+  "id": "exterior-forsaken-cave-00016248"
+ },
+ {
+  "name": "Fort Amol",
+  "kind": "exterior",
+  "category": "Fort",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "00016249",
+  "id": "exterior-fort-amol-00016249"
+ },
+ {
+  "name": "Fort Dawnguard",
+  "kind": "exterior",
+  "category": "Fort",
+  "region": "",
+  "dlc": "Dawnguard",
+  "description": "A large fort southeast of Riften which serves as the Dawnguard's base of operations. (map)",
+  "formId": "0200FC6C",
+  "id": "exterior-fort-dawnguard-0200fc6c"
+ },
+ {
+  "name": "Fort Dawnguard",
+  "kind": "exterior",
+  "category": "Fort",
+  "region": "",
+  "dlc": "Dawnguard",
+  "description": "A large fort southeast of Riften which serves as the Dawnguard's base of operations. (map)",
+  "formId": "02013F21",
+  "id": "exterior-fort-dawnguard-02013f21"
+ },
+ {
+  "name": "Fort Dunstad",
+  "kind": "exterior",
+  "category": "Fort",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "0001624B",
+  "id": "exterior-fort-dunstad-0001624b"
+ },
+ {
+  "name": "Fort Fellhammer",
+  "kind": "exterior",
+  "category": "Fort",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "0001624C",
+  "id": "exterior-fort-fellhammer-0001624c"
+ },
+ {
+  "name": "Fort Frostmoth",
+  "kind": "exterior",
+  "category": "Fort",
+  "region": "",
+  "dlc": "Dragonborn",
+  "description": "",
+  "formId": "040143C4",
+  "id": "exterior-fort-frostmoth-040143c4"
+ },
+ {
+  "name": "Fort Greenwall",
+  "kind": "exterior",
+  "category": "Fort",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "0001624D",
+  "id": "exterior-fort-greenwall-0001624d"
+ },
+ {
+  "name": "Fort Greymoor",
+  "kind": "exterior",
+  "category": "Fort",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "0001624A",
+  "id": "exterior-fort-greymoor-0001624a"
+ },
+ {
+  "name": "Fort Hraggstad",
+  "kind": "exterior",
+  "category": "Fort",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "0003F510",
+  "id": "exterior-fort-hraggstad-0003f510"
+ },
+ {
+  "name": "Fort Kastav",
+  "kind": "exterior",
+  "category": "Fort",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "0001624F",
+  "id": "exterior-fort-kastav-0001624f"
+ },
+ {
+  "name": "Fort Neugrad",
+  "kind": "exterior",
+  "category": "Fort",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "00016250",
+  "id": "exterior-fort-neugrad-00016250"
+ },
+ {
+  "name": "Fort Snowhawk",
+  "kind": "exterior",
+  "category": "Fort",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "00016251",
+  "id": "exterior-fort-snowhawk-00016251"
+ },
+ {
+  "name": "Fort Sungard",
+  "kind": "exterior",
+  "category": "Fort",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "00016252",
+  "id": "exterior-fort-sungard-00016252"
+ },
+ {
+  "name": "Four Skull Lookout",
+  "kind": "exterior",
+  "category": "Nordic Dwelling",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "000B23A7",
+  "id": "exterior-four-skull-lookout-000b23a7"
+ },
+ {
+  "name": "Froki's Shack",
+  "kind": "exterior",
+  "category": "Shack",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "000D392D",
+  "id": "exterior-froki-s-shack-000d392d"
+ },
+ {
+  "name": "Frossel",
+  "kind": "exterior",
+  "category": "Cave",
+  "region": "",
+  "dlc": "Dragonborn",
+  "description": "",
+  "formId": "040143C5",
+  "id": "exterior-frossel-040143c5"
+ },
+ {
+  "name": "Frostflow Lighthouse",
+  "kind": "exterior",
+  "category": "Lighthouse",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "00016253",
+  "id": "exterior-frostflow-lighthouse-00016253"
+ },
+ {
+  "name": "Frostmere Crypt",
+  "kind": "exterior",
+  "category": "Nordic Ruins",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "000162C2",
+  "id": "exterior-frostmere-crypt-000162c2"
+ },
+ {
+  "name": "Frostmoon Crag",
+  "kind": "exterior",
+  "category": "Cave",
+  "region": "",
+  "dlc": "Dragonborn",
+  "description": "",
+  "formId": "040143D1",
+  "id": "exterior-frostmoon-crag-040143d1"
+ },
+ {
+  "name": "Frykte Peak",
+  "kind": "exterior",
+  "category": "Landmark",
+  "region": "",
+  "dlc": "Dragonborn",
+  "description": "",
+  "formId": "0403A2CB",
+  "id": "exterior-frykte-peak-0403a2cb"
+ },
+ {
+  "name": "Gallows Rock",
+  "kind": "exterior",
+  "category": "Fort",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "00016254",
+  "id": "exterior-gallows-rock-00016254"
+ },
+ {
+  "name": "Geirmund's Hall",
+  "kind": "exterior",
+  "category": "Nordic Ruins",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "00016255",
+  "id": "exterior-geirmund-s-hall-00016255"
+ },
+ {
+  "name": "Giant's Grove",
+  "kind": "exterior",
+  "category": "Grove",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "000D28B7",
+  "id": "exterior-giant-s-grove-000d28b7"
+ },
+ {
+  "name": "Gjukar's Monument",
+  "kind": "exterior",
+  "category": "Landmark",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "000DED8E",
+  "id": "exterior-gjukar-s-monument-000ded8e"
+ },
+ {
+  "name": "Glacial Cave",
+  "kind": "exterior",
+  "category": "Cave",
+  "region": "",
+  "dlc": "Dragonborn",
+  "description": "",
+  "formId": "040143D7",
+  "id": "exterior-glacial-cave-040143d7"
+ },
+ {
+  "name": "Glacial Crevice",
+  "kind": "exterior",
+  "category": "Beyond Skyrim",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "A small cave in the Forgotten Vale, which must be traversed to reach the Inner Sanctum.",
+  "id": "exterior-glacial-crevice-glacialcrevice"
+ },
+ {
+  "name": "Glenmoril Coven",
+  "kind": "exterior",
+  "category": "Cave",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "00016257",
+  "id": "exterior-glenmoril-coven-00016257"
+ },
+ {
+  "name": "Gloombound Mine",
+  "kind": "exterior",
+  "category": "Mine",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "00016349",
+  "id": "exterior-gloombound-mine-00016349"
+ },
+ {
+  "name": "Gloomreach",
+  "kind": "exterior",
+  "category": "Cave",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "00016258",
+  "id": "exterior-gloomreach-00016258"
+ },
+ {
+  "name": "Glover Mallory's House",
+  "kind": "exterior",
+  "category": "Citie",
+  "region": "",
+  "dlc": "Dragonborn",
+  "description": "The home of Glover Mallory in Raven Rock. (map)",
+  "id": "exterior-glover-mallory-s-house-glovermalloryshouse"
+ },
+ {
+  "name": "Goldenglow Estate",
+  "kind": "exterior",
+  "category": "Settlement",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "0001A710",
+  "id": "exterior-goldenglow-estate-0001a710"
+ },
+ {
+  "name": "Graywinter Watch",
+  "kind": "exterior",
+  "category": "Cave",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "00016259",
+  "id": "exterior-graywinter-watch-00016259"
+ },
+ {
+  "name": "Great Lift at Alftand",
+  "kind": "exterior",
+  "category": "Dwemer Ruin",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "000F81DB",
+  "id": "exterior-great-lift-at-alftand-000f81db"
+ },
+ {
+  "name": "Great Lift at Mzinchaleft",
+  "kind": "exterior",
+  "category": "Dwemer Ruin",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "000F81DA",
+  "id": "exterior-great-lift-at-mzinchaleft-000f81da"
+ },
+ {
+  "name": "Great Lift at Raldbthar",
+  "kind": "exterior",
+  "category": "Dwemer Ruin",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "000F81D9",
+  "id": "exterior-great-lift-at-raldbthar-000f81d9"
+ },
+ {
+  "name": "Greathall",
+  "kind": "exterior",
+  "category": "Town",
+  "region": "",
+  "dlc": "Dragonborn",
+  "description": "The home of chief Fanari Strong-Voice and Tharstan in Skaal Village. (map)",
+  "id": "exterior-greathall-greathall"
+ },
+ {
+  "name": "Greenspring Hollow",
+  "kind": "exterior",
+  "category": "Grove",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "00016269",
+  "id": "exterior-greenspring-hollow-00016269"
+ },
+ {
+  "name": "Greywater Grotto",
+  "kind": "exterior",
+  "category": "Cave",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "0001625A",
+  "id": "exterior-greywater-grotto-0001625a"
+ },
+ {
+  "name": "Guild Halls",
+  "kind": "exterior",
+  "category": "Place",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "The various headquarters for the guilds of Skyrim",
+  "id": "exterior-guild-halls-guildhalls"
+ },
+ {
+  "name": "Guldun Rock",
+  "kind": "exterior",
+  "category": "Giant Camp",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "0001625C",
+  "id": "exterior-guldun-rock-0001625c"
+ },
+ {
+  "name": "Gyldenhul Barrow",
+  "kind": "exterior",
+  "category": "Nordic Ruins",
+  "region": "",
+  "dlc": "Dragonborn",
+  "description": "",
+  "formId": "040143C6",
+  "id": "exterior-gyldenhul-barrow-040143c6"
+ },
+ {
+  "name": "Haafingar Stormcloak Camp",
+  "kind": "exterior",
+  "category": "Stormcloak Camp",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "00094F96",
+  "id": "exterior-haafingar-stormcloak-camp-00094f96"
+ },
+ {
+  "name": "Haemar's Shame",
+  "kind": "exterior",
+  "category": "Cave",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "0001625D",
+  "id": "exterior-haemar-s-shame-0001625d"
+ },
+ {
+  "name": "Hag Rock Redoubt",
+  "kind": "exterior",
+  "category": "Nordic Ruins",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "0001625E",
+  "id": "exterior-hag-rock-redoubt-0001625e"
+ },
+ {
+  "name": "Hag's End",
+  "kind": "exterior",
+  "category": "Nordic Ruins",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "0001625F",
+  "id": "exterior-hag-s-end-0001625f"
+ },
+ {
+  "name": "Haknir's Shoal",
+  "kind": "exterior",
+  "category": "Camp",
+  "region": "",
+  "dlc": "Dragonborn",
+  "description": "",
+  "formId": "040143D5",
+  "id": "exterior-haknir-s-shoal-040143d5"
+ },
+ {
+  "name": "Half-Moon Mill",
+  "kind": "exterior",
+  "category": "Wood Mill",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "00016370",
+  "id": "exterior-half-moon-mill-00016370"
+ },
+ {
+  "name": "Hall of the Vigilant",
+  "kind": "exterior",
+  "category": "Shack",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "000C342A",
+  "id": "exterior-hall-of-the-vigilant-000c342a"
+ },
+ {
+  "name": "Hall of Valor",
+  "kind": "exterior",
+  "category": "Beyond Skyrim",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "A massive stone mead hall in Sovngarde where dead Nord heroes are rewarded by Shor with an eternity of revelry.",
+  "id": "exterior-hall-of-valor-hallofvalor"
+ },
+ {
+  "name": "Halldir's Cairn",
+  "kind": "exterior",
+  "category": "Cave",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "00016260",
+  "id": "exterior-halldir-s-cairn-00016260"
+ },
+ {
+  "name": "Halted Stream Camp",
+  "kind": "exterior",
+  "category": "Camp",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "00016261",
+  "id": "exterior-halted-stream-camp-00016261"
+ },
+ {
+  "name": "Hamvir's Rest",
+  "kind": "exterior",
+  "category": "Nordic Dwelling",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "000EE79C",
+  "id": "exterior-hamvir-s-rest-000ee79c"
+ },
+ {
+  "name": "Harmugstahl",
+  "kind": "exterior",
+  "category": "Fort",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "00016262",
+  "id": "exterior-harmugstahl-00016262"
+ },
+ {
+  "name": "Headwaters of Harstrad",
+  "kind": "exterior",
+  "category": "Clearing",
+  "region": "",
+  "dlc": "Dragonborn",
+  "description": "",
+  "formId": "04039F96",
+  "id": "exterior-headwaters-of-harstrad-04039f96"
+ },
+ {
+  "name": "Heartwood Mill",
+  "kind": "exterior",
+  "category": "Wood Mill",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "0001634F",
+  "id": "exterior-heartwood-mill-0001634f"
+ },
+ {
+  "name": "Hela's Folly",
+  "kind": "exterior",
+  "category": "Shipwreck",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "000162AC",
+  "id": "exterior-hela-s-folly-000162ac"
+ },
+ {
+  "name": "Helgen",
+  "kind": "exterior",
+  "category": "Town",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "00017780",
+  "id": "exterior-helgen-00017780"
+ },
+ {
+  "name": "Heljarchen Hall",
+  "kind": "exterior",
+  "category": "Town",
+  "region": "",
+  "dlc": "Hearthfire",
+  "description": "",
+  "formId": "03010DE8",
+  "id": "exterior-heljarchen-hall-03010de8"
+ },
+ {
+  "name": "High Gate Ruins",
+  "kind": "exterior",
+  "category": "Nordic Ruins",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "00016263",
+  "id": "exterior-high-gate-ruins-00016263"
+ },
+ {
+  "name": "High Hrothgar",
+  "kind": "exterior",
+  "category": "Fort",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "00016352",
+  "id": "exterior-high-hrothgar-00016352"
+ },
+ {
+  "name": "Highpoint Tower",
+  "kind": "exterior",
+  "category": "Fort",
+  "region": "",
+  "dlc": "Dragonborn",
+  "description": "",
+  "formId": "040143D9",
+  "id": "exterior-highpoint-tower-040143d9"
+ },
+ {
+  "name": "Hillgrund's Tomb",
+  "kind": "exterior",
+  "category": "Nordic Ruins",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "000162CB",
+  "id": "exterior-hillgrund-s-tomb-000162cb"
+ },
+ {
+  "name": "Hjaalmarch Imperial Camp",
+  "kind": "exterior",
+  "category": "Imperial Camp",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "00016279",
+  "id": "exterior-hjaalmarch-imperial-camp-00016279"
+ },
+ {
+  "name": "Hjaalmarch Stormcloak Camp",
+  "kind": "exterior",
+  "category": "Stormcloak Camp",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "0001627A",
+  "id": "exterior-hjaalmarch-stormcloak-camp-0001627a"
+ },
+ {
+  "name": "Hlaalu Farm",
+  "kind": "exterior",
+  "category": "Farm",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "00016355",
+  "id": "exterior-hlaalu-farm-00016355"
+ },
+ {
+  "name": "Hob's Fall Cave",
+  "kind": "exterior",
+  "category": "Cave",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "00016266",
+  "id": "exterior-hob-s-fall-cave-00016266"
+ },
+ {
+  "name": "Holds",
+  "kind": "exterior",
+  "category": "Place",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "The holds (political regions) that make up Skyrim",
+  "id": "exterior-holds-holds"
+ },
+ {
+  "name": "Hollyfrost Farm",
+  "kind": "exterior",
+  "category": "Farm",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "00016358",
+  "id": "exterior-hollyfrost-farm-00016358"
+ },
+ {
+  "name": "Honeystrand Cave",
+  "kind": "exterior",
+  "category": "Cave",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "00016267",
+  "id": "exterior-honeystrand-cave-00016267"
+ },
+ {
+  "name": "Honningbrew Meadery",
+  "kind": "exterior",
+  "category": "Settlement",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "00038593",
+  "id": "exterior-honningbrew-meadery-00038593"
+ },
+ {
+  "name": "Horker Island",
+  "kind": "exterior",
+  "category": "Landmark",
+  "region": "",
+  "dlc": "Dragonborn",
+  "description": "",
+  "formId": "040143C7",
+  "id": "exterior-horker-island-040143c7"
+ },
+ {
+  "name": "Houses",
+  "kind": "exterior",
+  "category": "Place",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "Properties you can purchase as a home across Skyrim",
+  "id": "exterior-houses-houses"
+ },
+ {
+  "name": "Hrodulf's House",
+  "kind": "exterior",
+  "category": "Shack",
+  "region": "",
+  "dlc": "Dragonborn",
+  "description": "",
+  "formId": "040143D6",
+  "id": "exterior-hrodulf-s-house-040143d6"
+ },
+ {
+  "name": "Hrothmund's Barrow",
+  "kind": "exterior",
+  "category": "Cave",
+  "region": "",
+  "dlc": "Dragonborn",
+  "description": "",
+  "formId": "04017BB0",
+  "id": "exterior-hrothmund-s-barrow-04017bb0"
+ },
+ {
+  "name": "Hunter's Rest",
+  "kind": "exterior",
+  "category": "Shack",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "000F52B2",
+  "id": "exterior-hunter-s-rest-000f52b2"
+ },
+ {
+  "name": "Hvitkald Peak",
+  "kind": "exterior",
+  "category": "Landmark",
+  "region": "",
+  "dlc": "Dragonborn",
+  "description": "",
+  "formId": "040365F1",
+  "id": "exterior-hvitkald-peak-040365f1"
+ },
+ {
+  "name": "Icewater Jetty",
+  "kind": "exterior",
+  "category": "Docks",
+  "region": "",
+  "dlc": "Dawnguard",
+  "description": "",
+  "formId": "02008E41",
+  "id": "exterior-icewater-jetty-02008e41"
+ },
+ {
+  "name": "Ienth Farm",
+  "kind": "exterior",
+  "category": "Citie",
+  "region": "",
+  "dlc": "Dragonborn",
+  "description": "The home of Garyn Ienth and Milore Ienth in Raven Rock. (map)",
+  "id": "exterior-ienth-farm-ienthfarm"
+ },
+ {
+  "name": "Ilinalta's Deep",
+  "kind": "exterior",
+  "category": "Fort",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "0001626A",
+  "id": "exterior-ilinalta-s-deep-0001626a"
+ },
+ {
+  "name": "Inner Sanctum",
+  "kind": "exterior",
+  "category": "Beyond Skyrim",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "A relatively well-preserved portion of the Chantry of Auri-El in the Forgotten Vale.",
+  "id": "exterior-inner-sanctum-innersanctum"
+ },
+ {
+  "name": "Inns",
+  "kind": "exterior",
+  "category": "Place",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "Inns, taverns, and places where you can rent a room",
+  "id": "exterior-inns-inns"
+ },
+ {
+  "name": "Irkngthand",
+  "kind": "exterior",
+  "category": "Dwemer Ruin",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "0001626B",
+  "id": "exterior-irkngthand-0001626b"
+ },
+ {
+  "name": "Ironback Hideout",
+  "kind": "exterior",
+  "category": "Shack",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "000EF543",
+  "id": "exterior-ironback-hideout-000ef543"
+ },
+ {
+  "name": "Ironbind Barrow",
+  "kind": "exterior",
+  "category": "Nordic Ruins",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "0003F076",
+  "id": "exterior-ironbind-barrow-0003f076"
+ },
+ {
+  "name": "Ivarstead",
+  "kind": "exterior",
+  "category": "Town",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "00017791",
+  "id": "exterior-ivarstead-00017791"
+ },
+ {
+  "name": "Jails",
+  "kind": "exterior",
+  "category": "Place",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "The jails found throughout Skyrim",
+  "id": "exterior-jails-jails"
+ },
+ {
+  "name": "Japhet's Folly",
+  "kind": "exterior",
+  "category": "Settlement",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "00016245",
+  "id": "exterior-japhet-s-folly-00016245"
+ },
+ {
+  "name": "Journeyman's Nook",
+  "kind": "exterior",
+  "category": "Nordic Dwelling",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "000EF549",
+  "id": "exterior-journeyman-s-nook-000ef549"
+ },
+ {
+  "name": "Kagrenzel",
+  "kind": "exterior",
+  "category": "Dwemer Ruin",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "00080E56",
+  "id": "exterior-kagrenzel-00080e56"
+ },
+ {
+  "name": "Kagrumez",
+  "kind": "exterior",
+  "category": "Dwemer Ruin",
+  "region": "",
+  "dlc": "Dragonborn",
+  "description": "",
+  "formId": "040143C3",
+  "id": "exterior-kagrumez-040143c3"
+ },
+ {
+  "name": "Karthspire",
+  "kind": "exterior",
+  "category": "Camp",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "0001626C",
+  "id": "exterior-karthspire-0001626c"
+ },
+ {
+  "name": "Karthspire Camp",
+  "kind": "exterior",
+  "category": "Camp",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "000F6698",
+  "id": "exterior-karthspire-camp-000f6698"
+ },
+ {
+  "name": "Karthwasten",
+  "kind": "exterior",
+  "category": "Town",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "0001779A",
+  "id": "exterior-karthwasten-0001779a"
+ },
+ {
+  "name": "Katla's Farm",
+  "kind": "exterior",
+  "category": "Stable",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "0001635E",
+  "id": "exterior-katla-s-farm-0001635e"
+ },
+ {
+  "name": "Kjenstag Ruins",
+  "kind": "exterior",
+  "category": "Nordic Dwelling",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "000C2EEF",
+  "id": "exterior-kjenstag-ruins-000c2eef"
+ },
+ {
+  "name": "Knifepoint Ridge",
+  "kind": "exterior",
+  "category": "Camp",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "0008E03C",
+  "id": "exterior-knifepoint-ridge-0008e03c"
+ },
+ {
+  "name": "Kolbjorn Barrow",
+  "kind": "exterior",
+  "category": "Nordic Ruins",
+  "region": "",
+  "dlc": "Dragonborn",
+  "description": "",
+  "formId": "040143CC",
+  "id": "exterior-kolbjorn-barrow-040143cc"
+ },
+ {
+  "name": "Kolskeggr Mine",
+  "kind": "exterior",
+  "category": "Mine",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "0002051D",
+  "id": "exterior-kolskeggr-mine-0002051d"
+ },
+ {
+  "name": "Korvanjund",
+  "kind": "exterior",
+  "category": "Nordic Ruins",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "00016224",
+  "id": "exterior-korvanjund-00016224"
+ },
+ {
+  "name": "Kynesgrove",
+  "kind": "exterior",
+  "category": "Settlement",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "000177A1",
+  "id": "exterior-kynesgrove-000177a1"
+ },
+ {
+  "name": "Labyrinthian",
+  "kind": "exterior",
+  "category": "Nordic Ruins",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "0001626E",
+  "id": "exterior-labyrinthian-0001626e"
+ },
+ {
+  "name": "Lakeview Manor",
+  "kind": "exterior",
+  "category": "Town",
+  "region": "",
+  "dlc": "Hearthfire",
+  "description": "",
+  "formId": "030030AA",
+  "id": "exterior-lakeview-manor-030030aa"
+ },
+ {
+  "name": "Largashbur",
+  "kind": "exterior",
+  "category": "Orc Stronghold",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "0001626F",
+  "id": "exterior-largashbur-0001626f"
+ },
+ {
+  "name": "Last Vigil",
+  "kind": "exterior",
+  "category": "Camp",
+  "region": "",
+  "dlc": "Dragonborn",
+  "description": "",
+  "formId": "0402C49B",
+  "id": "exterior-last-vigil-0402c49b"
+ },
+ {
+  "name": "Left Hand Mine",
+  "kind": "exterior",
+  "category": "Mine",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "00016364",
+  "id": "exterior-left-hand-mine-00016364"
+ },
+ {
+  "name": "Liar's Retreat",
+  "kind": "exterior",
+  "category": "Cave",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "00016270",
+  "id": "exterior-liar-s-retreat-00016270"
+ },
+ {
+  "name": "Loreius Farm",
+  "kind": "exterior",
+  "category": "Wheat Mill",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "00016367",
+  "id": "exterior-loreius-farm-00016367"
+ },
+ {
+  "name": "Lost Echo Cave",
+  "kind": "exterior",
+  "category": "Cave",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "000AF89B",
+  "id": "exterior-lost-echo-cave-000af89b"
+ },
+ {
+  "name": "Lost Knife Hideout",
+  "kind": "exterior",
+  "category": "Cave",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "00016273",
+  "id": "exterior-lost-knife-hideout-00016273"
+ },
+ {
+  "name": "Lost Prospect Mine",
+  "kind": "exterior",
+  "category": "Mine",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "000D3938",
+  "id": "exterior-lost-prospect-mine-000d3938"
+ },
+ {
+  "name": "Lost Tongue Overlook",
+  "kind": "exterior",
+  "category": "Dragon Lair",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "00016235",
+  "id": "exterior-lost-tongue-overlook-00016235"
+ },
+ {
+  "name": "Lost Valkygg",
+  "kind": "exterior",
+  "category": "Nordic Dwelling",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "000EAA63",
+  "id": "exterior-lost-valkygg-000eaa63"
+ },
+ {
+  "name": "Lost Valley Redoubt",
+  "kind": "exterior",
+  "category": "Nordic Ruins",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "00016274",
+  "id": "exterior-lost-valley-redoubt-00016274"
+ },
+ {
+  "name": "Lower Steepfall Burrow",
+  "kind": "exterior",
+  "category": "Cave",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "000F4FE7",
+  "id": "exterior-lower-steepfall-burrow-000f4fe7"
+ },
+ {
+  "name": "Lund's Hut",
+  "kind": "exterior",
+  "category": "Shack",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "000E66A3",
+  "id": "exterior-lund-s-hut-000e66a3"
+ },
+ {
+  "name": "Mara's Eye Pond",
+  "kind": "exterior",
+  "category": "Clearing",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "000ECF51",
+  "id": "exterior-mara-s-eye-pond-000ecf51"
+ },
+ {
+  "name": "Markarth",
+  "kind": "exterior",
+  "category": "Markarth Capitol",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "0001C38A",
+  "id": "exterior-markarth-0001c38a"
+ },
+ {
+  "name": "Markarth Military Camp",
+  "kind": "exterior",
+  "category": "Imperial Camp",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "000EC196",
+  "id": "exterior-markarth-military-camp-000ec196"
+ },
+ {
+  "name": "Markarth Military Camp",
+  "kind": "exterior",
+  "category": "Stormcloak Camp",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "00094C29",
+  "id": "exterior-markarth-military-camp-00094c29"
+ },
+ {
+  "name": "Markarth Stables",
+  "kind": "exterior",
+  "category": "Stable",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "000E962F",
+  "id": "exterior-markarth-stables-000e962f"
+ },
+ {
+  "name": "Meeko's Shack",
+  "kind": "exterior",
+  "category": "Shack",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "000F6F11",
+  "id": "exterior-meeko-s-shack-000f6f11"
+ },
+ {
+  "name": "Merryfair Farm",
+  "kind": "exterior",
+  "category": "Farm",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "000268FF",
+  "id": "exterior-merryfair-farm-000268ff"
+ },
+ {
+  "name": "Mistveil Keep",
+  "kind": "exterior",
+  "category": "Riften Castle",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "000C44B1",
+  "id": "exterior-mistveil-keep-000c44b1"
+ },
+ {
+  "name": "Mistwatch",
+  "kind": "exterior",
+  "category": "Fort",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "00016286",
+  "id": "exterior-mistwatch-00016286"
+ },
+ {
+  "name": "Misty Grove",
+  "kind": "exterior",
+  "category": "Beyond Skyrim",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "One of the Myriad Realms of Revelry created by Sanguine, where he is holding a feast with some of his followers.",
+  "id": "exterior-misty-grove-mistygrove"
+ },
+ {
+  "name": "Mixwater Mill",
+  "kind": "exterior",
+  "category": "Wood Mill",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "0001636D",
+  "id": "exterior-mixwater-mill-0001636d"
+ },
+ {
+  "name": "Moesring Pass",
+  "kind": "exterior",
+  "category": "Pass",
+  "region": "",
+  "dlc": "Dragonborn",
+  "description": "",
+  "formId": "040143CE",
+  "id": "exterior-moesring-pass-040143ce"
+ },
+ {
+  "name": "Moldering Ruins",
+  "kind": "exterior",
+  "category": "Nordic Dwelling",
+  "region": "",
+  "dlc": "Dawnguard",
+  "description": "",
+  "formId": "0200D0AE",
+  "id": "exterior-moldering-ruins-0200d0ae"
+ },
+ {
+  "name": "Mor Khazgur",
+  "kind": "exterior",
+  "category": "Orc Stronghold",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "00016287",
+  "id": "exterior-mor-khazgur-00016287"
+ },
+ {
+  "name": "Morthal",
+  "kind": "exterior",
+  "category": "Morthal Capitol",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "000177B0",
+  "id": "exterior-morthal-000177b0"
+ },
+ {
+  "name": "Mortrag Peak",
+  "kind": "exterior",
+  "category": "Landmark",
+  "region": "",
+  "dlc": "Dragonborn",
+  "description": "",
+  "formId": "0403A2C9",
+  "id": "exterior-mortrag-peak-0403a2c9"
+ },
+ {
+  "name": "Morvayn Ancestral Tomb",
+  "kind": "exterior",
+  "category": "Citie",
+  "region": "",
+  "dlc": "Dragonborn",
+  "description": "A Dunmer ancestral tomb in Raven Rock. (map)",
+  "id": "exterior-morvayn-ancestral-tomb-morvaynancestraltomb"
+ },
+ {
+  "name": "Morvayn Manor",
+  "kind": "exterior",
+  "category": "Citie",
+  "region": "",
+  "dlc": "Dragonborn",
+  "description": "The home of Lleril Morvayn, Adril Arano, and Cindiri Arano in Raven Rock. (map)",
+  "id": "exterior-morvayn-manor-morvaynmanor"
+ },
+ {
+  "name": "Morvunskar",
+  "kind": "exterior",
+  "category": "Fort",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "00016288",
+  "id": "exterior-morvunskar-00016288"
+ },
+ {
+  "name": "Morwen's House",
+  "kind": "exterior",
+  "category": "Town",
+  "region": "",
+  "dlc": "Dragonborn",
+  "description": "The home of Morwen in Skaal Village. (map)",
+  "id": "exterior-morwen-s-house-morwenshouse"
+ },
+ {
+  "name": "Moss Mother Cavern",
+  "kind": "exterior",
+  "category": "Cave",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "00016289",
+  "id": "exterior-moss-mother-cavern-00016289"
+ },
+ {
+  "name": "Mossy Glen Cave",
+  "kind": "exterior",
+  "category": "Beyond Skyrim",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "A small, unmarked bear den only accessible via Dayspring Canyon.",
+  "id": "exterior-mossy-glen-cave-mossyglencave"
+ },
+ {
+  "name": "Mount Anthor",
+  "kind": "exterior",
+  "category": "Dragon Lair",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "0001628A",
+  "id": "exterior-mount-anthor-0001628a"
+ },
+ {
+  "name": "Mount Moesring",
+  "kind": "exterior",
+  "category": "Landmark",
+  "region": "",
+  "dlc": "Dragonborn",
+  "description": "",
+  "formId": "0403A2C7",
+  "id": "exterior-mount-moesring-0403a2c7"
+ },
+ {
+  "name": "Movarth's Lair",
+  "kind": "exterior",
+  "category": "Cave",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "00016256",
+  "id": "exterior-movarth-s-lair-00016256"
+ },
+ {
+  "name": "Mzinchaleft",
+  "kind": "exterior",
+  "category": "Dwemer Ruin",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "0001628B",
+  "id": "exterior-mzinchaleft-0001628b"
+ },
+ {
+  "name": "Mzulft",
+  "kind": "exterior",
+  "category": "Dwemer Ruin",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "0001628C",
+  "id": "exterior-mzulft-0001628c"
+ },
+ {
+  "name": "Narzulbur",
+  "kind": "exterior",
+  "category": "Orc Stronghold",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "0001628D",
+  "id": "exterior-narzulbur-0001628d"
+ },
+ {
+  "name": "Nchardak",
+  "kind": "exterior",
+  "category": "Dwemer Ruin",
+  "region": "",
+  "dlc": "Dragonborn",
+  "description": "",
+  "formId": "040143C9",
+  "id": "exterior-nchardak-040143c9"
+ },
+ {
+  "name": "Nightcaller Temple",
+  "kind": "exterior",
+  "category": "Fort",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "00017082",
+  "id": "exterior-nightcaller-temple-00017082"
+ },
+ {
+  "name": "Nightgate Inn",
+  "kind": "exterior",
+  "category": "Settlement",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "00017785",
+  "id": "exterior-nightgate-inn-00017785"
+ },
+ {
+  "name": "Nightingale Hall",
+  "kind": "exterior",
+  "category": "Cave",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "00047D25",
+  "id": "exterior-nightingale-hall-00047d25"
+ },
+ {
+  "name": "Nilheim",
+  "kind": "exterior",
+  "category": "Nordic Tower",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "0001628F",
+  "id": "exterior-nilheim-0001628f"
+ },
+ {
+  "name": "North Brittleshin Pass",
+  "kind": "exterior",
+  "category": "Cave",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "00016265",
+  "id": "exterior-north-brittleshin-pass-00016265"
+ },
+ {
+  "name": "North Cold Rock Pass",
+  "kind": "exterior",
+  "category": "Pass",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "000F5EB1",
+  "id": "exterior-north-cold-rock-pass-000f5eb1"
+ },
+ {
+  "name": "North Shriekwind Bastion",
+  "kind": "exterior",
+  "category": "Nordic Ruins",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "000A0E46",
+  "id": "exterior-north-shriekwind-bastion-000a0e46"
+ },
+ {
+  "name": "North Skybound Watch",
+  "kind": "exterior",
+  "category": "Nordic Dwelling",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "0004B6EB",
+  "id": "exterior-north-skybound-watch-0004b6eb"
+ },
+ {
+  "name": "Northshore Landing",
+  "kind": "exterior",
+  "category": "Docks",
+  "region": "",
+  "dlc": "Dragonborn",
+  "description": "",
+  "formId": "040143DA",
+  "id": "exterior-northshore-landing-040143da"
+ },
+ {
+  "name": "Northwatch Keep",
+  "kind": "exterior",
+  "category": "Fort",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "00016290",
+  "id": "exterior-northwatch-keep-00016290"
+ },
+ {
+  "name": "Northwind Mine",
+  "kind": "exterior",
+  "category": "Mine",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "000FDBDE",
+  "id": "exterior-northwind-mine-000fdbde"
+ },
+ {
+  "name": "Northwind Summit",
+  "kind": "exterior",
+  "category": "Dragon Lair",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "00016234",
+  "id": "exterior-northwind-summit-00016234"
+ },
+ {
+  "name": "Old Attius Farm",
+  "kind": "exterior",
+  "category": "Farm",
+  "region": "",
+  "dlc": "Dragonborn",
+  "description": "",
+  "formId": "0401A562",
+  "id": "exterior-old-attius-farm-0401a562"
+ },
+ {
+  "name": "Old Hroldan",
+  "kind": "exterior",
+  "category": "Settlement",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "000177C3",
+  "id": "exterior-old-hroldan-000177c3"
+ },
+ {
+  "name": "Orotheim",
+  "kind": "exterior",
+  "category": "Cave",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "00016291",
+  "id": "exterior-orotheim-00016291"
+ },
+ {
+  "name": "Orphan Rock",
+  "kind": "exterior",
+  "category": "Landmark",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "00016292",
+  "id": "exterior-orphan-rock-00016292"
+ },
+ {
+  "name": "Orphan's Tear",
+  "kind": "exterior",
+  "category": "Shipwreck",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "000162B0",
+  "id": "exterior-orphan-s-tear-000162b0"
+ },
+ {
+  "name": "Oslaf's House",
+  "kind": "exterior",
+  "category": "Town",
+  "region": "",
+  "dlc": "Dragonborn",
+  "description": "The home of Oslaf, Finna, and their daughter Aeta in Skaal Village. (map)",
+  "id": "exterior-oslaf-s-house-oslafshouse"
+ },
+ {
+  "name": "Other Places",
+  "kind": "exterior",
+  "category": "Place",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "Other places that do not fit into another category",
+  "id": "exterior-other-places-otherplaces"
+ },
+ {
+  "name": "Outlander (20 points/Bronze)",
+  "kind": "exterior",
+  "category": "Achievement",
+  "region": "",
+  "dlc": "Dragonborn",
+  "description": "Arrive on Solstheim",
+  "id": "exterior-outlander-20-points-bronze-outlander"
+ },
+ {
+  "name": "Palace of the Kings",
+  "kind": "exterior",
+  "category": "Windhelm Castle",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "000C44B3",
+  "id": "exterior-palace-of-the-kings-000c44b3"
+ },
+ {
+  "name": "Pale Imperial Camp",
+  "kind": "exterior",
+  "category": "Imperial Camp",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "0001627B",
+  "id": "exterior-pale-imperial-camp-0001627b"
+ },
+ {
+  "name": "Pale Stormcloak Camp",
+  "kind": "exterior",
+  "category": "Stormcloak Camp",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "0001627C",
+  "id": "exterior-pale-stormcloak-camp-0001627c"
+ },
+ {
+  "name": "Peak's Shade Tower",
+  "kind": "exterior",
+  "category": "Nordic Tower",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "00047880",
+  "id": "exterior-peak-s-shade-tower-00047880"
+ },
+ {
+  "name": "Pelagia Farm",
+  "kind": "exterior",
+  "category": "Wheat Mill",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "00016373",
+  "id": "exterior-pelagia-farm-00016373"
+ },
+ {
+  "name": "Pilgrim's Trench",
+  "kind": "exterior",
+  "category": "Shipwreck",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "000162AD",
+  "id": "exterior-pilgrim-s-trench-000162ad"
+ },
+ {
+  "name": "Pinefrost Tower",
+  "kind": "exterior",
+  "category": "Imperial Tower",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "000EF0BA",
+  "id": "exterior-pinefrost-tower-000ef0ba"
+ },
+ {
+  "name": "Pinemoon Cave",
+  "kind": "exterior",
+  "category": "Cave",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "00016293",
+  "id": "exterior-pinemoon-cave-00016293"
+ },
+ {
+  "name": "Pinepeak Cavern",
+  "kind": "exterior",
+  "category": "Cave",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "00016294",
+  "id": "exterior-pinepeak-cavern-00016294"
+ },
+ {
+  "name": "Pinewatch",
+  "kind": "exterior",
+  "category": "Shack",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "00016295",
+  "id": "exterior-pinewatch-00016295"
+ },
+ {
+  "name": "Playroom",
+  "kind": "exterior",
+  "category": "See Also",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "A playable space that serves as the main menu for Skyrim VR.",
+  "id": "exterior-playroom-playroom"
+ },
+ {
+  "name": "Purewater Run",
+  "kind": "exterior",
+  "category": "Cave",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "00032875",
+  "id": "exterior-purewater-run-00032875"
+ },
+ {
+  "name": "Ragnvald",
+  "kind": "exterior",
+  "category": "Nordic Ruins",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "0001629A",
+  "id": "exterior-ragnvald-0001629a"
+ },
+ {
+  "name": "Raldbthar",
+  "kind": "exterior",
+  "category": "Dwemer Ruin",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "00090595",
+  "id": "exterior-raldbthar-00090595"
+ },
+ {
+  "name": "Ramshackle Trading Post",
+  "kind": "exterior",
+  "category": "Shack",
+  "region": "",
+  "dlc": "Dragonborn",
+  "description": "",
+  "formId": "04034EE4",
+  "id": "exterior-ramshackle-trading-post-04034ee4"
+ },
+ {
+  "name": "Rannveig's Fast",
+  "kind": "exterior",
+  "category": "Nordic Ruins",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "0001629B",
+  "id": "exterior-rannveig-s-fast-0001629b"
+ },
+ {
+  "name": "Raven Rock",
+  "kind": "exterior",
+  "category": "DLC02 - Raven Rock",
+  "region": "",
+  "dlc": "Dragonborn",
+  "description": "",
+  "formId": "040143DC",
+  "id": "exterior-raven-rock-040143dc"
+ },
+ {
+  "name": "Raven Rock Mine",
+  "kind": "exterior",
+  "category": "Citie",
+  "region": "",
+  "dlc": "Dragonborn",
+  "description": "A small ebony mine in northern Raven Rock initially containing draugr, frostbite spiders, skeevers, and the dragon priest Zahkriisos. (map)",
+  "id": "exterior-raven-rock-mine-ravenrockmine"
+ },
+ {
+  "name": "Ravenscar Hollow",
+  "kind": "exterior",
+  "category": "Cave",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "0001629C",
+  "id": "exterior-ravenscar-hollow-0001629c"
+ },
+ {
+  "name": "Reach Imperial Camp",
+  "kind": "exterior",
+  "category": "Imperial Camp",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "00016277",
+  "id": "exterior-reach-imperial-camp-00016277"
+ },
+ {
+  "name": "Reach Stormcloak Camp",
+  "kind": "exterior",
+  "category": "Stormcloak Camp",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "00016276",
+  "id": "exterior-reach-stormcloak-camp-00016276"
+ },
+ {
+  "name": "Reachcliff Cave",
+  "kind": "exterior",
+  "category": "Cave",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "0001629D",
+  "id": "exterior-reachcliff-cave-0001629d"
+ },
+ {
+  "name": "Reachcliff Secret Entrance",
+  "kind": "exterior",
+  "category": "Cave",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "0010B2C8",
+  "id": "exterior-reachcliff-secret-entrance-0010b2c8"
+ },
+ {
+  "name": "Reachwater Rock",
+  "kind": "exterior",
+  "category": "Cave",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "0001629E",
+  "id": "exterior-reachwater-rock-0001629e"
+ },
+ {
+  "name": "Reachwind Eyrie",
+  "kind": "exterior",
+  "category": "Landmark",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "000B23A3",
+  "id": "exterior-reachwind-eyrie-000b23a3"
+ },
+ {
+  "name": "Reaper's Lair",
+  "kind": "exterior",
+  "category": "Beyond Skyrim",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "An enclosed ruin in the Soul Cairn.",
+  "id": "exterior-reaper-s-lair-reaperslair"
+ },
+ {
+  "name": "Rebel's Cairn",
+  "kind": "exterior",
+  "category": "Cave",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "000B629F",
+  "id": "exterior-rebel-s-cairn-000b629f"
+ },
+ {
+  "name": "Red Eagle Redoubt",
+  "kind": "exterior",
+  "category": "Cave",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "0001623D",
+  "id": "exterior-red-eagle-redoubt-0001623d"
+ },
+ {
+  "name": "Red Road Pass",
+  "kind": "exterior",
+  "category": "Giant Camp",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "000162A0",
+  "id": "exterior-red-road-pass-000162a0"
+ },
+ {
+  "name": "Redoran's Retreat",
+  "kind": "exterior",
+  "category": "Cave",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "0001629F",
+  "id": "exterior-redoran-s-retreat-0001629f"
+ },
+ {
+  "name": "Redwater Den",
+  "kind": "exterior",
+  "category": "Shack",
+  "region": "",
+  "dlc": "Dawnguard",
+  "description": "",
+  "formId": "0200777E",
+  "id": "exterior-redwater-den-0200777e"
+ },
+ {
+  "name": "Refugees' Rest",
+  "kind": "exterior",
+  "category": "Imperial Tower",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "000EF570",
+  "id": "exterior-refugees-rest-000ef570"
+ },
+ {
+  "name": "Rift Imperial Camp",
+  "kind": "exterior",
+  "category": "Imperial Camp",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "00016281",
+  "id": "exterior-rift-imperial-camp-00016281"
+ },
+ {
+  "name": "Rift Stormcloak Camp",
+  "kind": "exterior",
+  "category": "Stormcloak Camp",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "00016280",
+  "id": "exterior-rift-stormcloak-camp-00016280"
+ },
+ {
+  "name": "Rift Watchtower",
+  "kind": "exterior",
+  "category": "Imperial Tower",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "000D3930",
+  "id": "exterior-rift-watchtower-000d3930"
+ },
+ {
+  "name": "Riften",
+  "kind": "exterior",
+  "category": "Riften Capitol",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "0001C390",
+  "id": "exterior-riften-0001c390"
+ },
+ {
+  "name": "Riften Military Camp",
+  "kind": "exterior",
+  "category": "Imperial Camp",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "000A8844",
+  "id": "exterior-riften-military-camp-000a8844"
+ },
+ {
+  "name": "Riften Military Camp",
+  "kind": "exterior",
+  "category": "Stormcloak Camp",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "000EC195",
+  "id": "exterior-riften-military-camp-000ec195"
+ },
+ {
+  "name": "Riften Stables",
+  "kind": "exterior",
+  "category": "Stable",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "00096A46",
+  "id": "exterior-riften-stables-00096a46"
+ },
+ {
+  "name": "Rimerock Burrow",
+  "kind": "exterior",
+  "category": "Cave",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "000162A1",
+  "id": "exterior-rimerock-burrow-000162a1"
+ },
+ {
+  "name": "Riverside Shack",
+  "kind": "exterior",
+  "category": "Shack",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "000ECF4F",
+  "id": "exterior-riverside-shack-000ecf4f"
+ },
+ {
+  "name": "Riverwood",
+  "kind": "exterior",
+  "category": "Town",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "000162A4",
+  "id": "exterior-riverwood-000162a4"
+ },
+ {
+  "name": "Riverwood",
+  "kind": "interior",
+  "category": "Interior",
+  "region": "Riverwood",
+  "dlc": "Skyrim",
+  "description": "Interior in Riverwood.",
+  "cellId": "Riverwood",
+  "id": "interior-riverwood-riverwood"
+ },
+ {
+  "name": "Roadside Ruins",
+  "kind": "exterior",
+  "category": "Nordic Dwelling",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "00047875",
+  "id": "exterior-roadside-ruins-00047875"
+ },
+ {
+  "name": "Robber's Gorge",
+  "kind": "exterior",
+  "category": "Camp",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "000162A7",
+  "id": "exterior-robber-s-gorge-000162a7"
+ },
+ {
+  "name": "Rorikstead",
+  "kind": "exterior",
+  "category": "Town",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "000177CC",
+  "id": "exterior-rorikstead-000177cc"
+ },
+ {
+  "name": "Ruins of Bthalft",
+  "kind": "exterior",
+  "category": "Landmark",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "000D393C",
+  "id": "exterior-ruins-of-bthalft-000d393c"
+ },
+ {
+  "name": "Ruins of Rkund",
+  "kind": "exterior",
+  "category": "Landmark",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "000D3939",
+  "id": "exterior-ruins-of-rkund-000d3939"
+ },
+ {
+  "name": "Ruunvald Excavation",
+  "kind": "exterior",
+  "category": "Cave",
+  "region": "",
+  "dlc": "Dawnguard",
+  "description": "",
+  "formId": "02007B23",
+  "id": "exterior-ruunvald-excavation-02007b23"
+ },
+ {
+  "name": "Saarthal",
+  "kind": "exterior",
+  "category": "Nordic Ruins",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "000162A5",
+  "id": "exterior-saarthal-000162a5"
+ },
+ {
+  "name": "Sacellum of Boethiah",
+  "kind": "exterior",
+  "category": "Shrine",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "0004D8DA",
+  "id": "exterior-sacellum-of-boethiah-0004d8da"
+ },
+ {
+  "name": "Saering's Watch",
+  "kind": "exterior",
+  "category": "Dragon Lair",
+  "region": "",
+  "dlc": "Dragonborn",
+  "description": "",
+  "formId": "04019D1C",
+  "id": "exterior-saering-s-watch-04019d1c"
+ },
+ {
+  "name": "Salvius Farm",
+  "kind": "exterior",
+  "category": "Wheat Mill",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "00016376",
+  "id": "exterior-salvius-farm-00016376"
+ },
+ {
+  "name": "Sarethi Farm",
+  "kind": "exterior",
+  "category": "Wheat Mill",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "00016379",
+  "id": "exterior-sarethi-farm-00016379"
+ },
+ {
+  "name": "Secunda's Kiss",
+  "kind": "exterior",
+  "category": "Giant Camp",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "000162A6",
+  "id": "exterior-secunda-s-kiss-000162a6"
+ },
+ {
+  "name": "Septimus Signus's Outpost",
+  "kind": "exterior",
+  "category": "Cave",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "0002D511",
+  "id": "exterior-septimus-signus-s-outpost-0002d511"
+ },
+ {
+  "name": "Serpent's Bluff Redoubt",
+  "kind": "exterior",
+  "category": "Camp",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "000162CC",
+  "id": "exterior-serpent-s-bluff-redoubt-000162cc"
+ },
+ {
+  "name": "Severin Manor",
+  "kind": "exterior",
+  "category": "Citie",
+  "region": "",
+  "dlc": "Dragonborn",
+  "description": "Initially the home of Mirri Severin, Tilisu Severin, and Vendil Severin in Raven Rock, which can be obtained as player housing by completing the quest Served Cold. (map)",
+  "id": "exterior-severin-manor-severinmanor"
+ },
+ {
+  "name": "Shadowgreen Cavern",
+  "kind": "exterior",
+  "category": "Cave",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "000162A8",
+  "id": "exterior-shadowgreen-cavern-000162a8"
+ },
+ {
+  "name": "Shaman's Hut",
+  "kind": "exterior",
+  "category": "Town",
+  "region": "",
+  "dlc": "Dragonborn",
+  "description": "The home of shaman Storn Crag-Strider and his daughter Frea in Skaal Village. (map)",
+  "id": "exterior-shaman-s-hut-shamanshut"
+ },
+ {
+  "name": "Sharpslope Cave",
+  "kind": "exterior",
+  "category": "Beyond Skyrim",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "A small cave in the Forgotten Vale containing chaurus, Falmer, and one of the rare shellbugs.",
+  "id": "exterior-sharpslope-cave-sharpslopecave"
+ },
+ {
+  "name": "Shearpoint",
+  "kind": "exterior",
+  "category": "Dragon Lair",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "00016237",
+  "id": "exterior-shearpoint-00016237"
+ },
+ {
+  "name": "Shimmermist Cave",
+  "kind": "exterior",
+  "category": "Cave",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "000162A9",
+  "id": "exterior-shimmermist-cave-000162a9"
+ },
+ {
+  "name": "Shor's Stone",
+  "kind": "exterior",
+  "category": "Town",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "000177D7",
+  "id": "exterior-shor-s-stone-000177d7"
+ },
+ {
+  "name": "Shor's Watchtower",
+  "kind": "exterior",
+  "category": "Imperial Tower",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "000D3934",
+  "id": "exterior-shor-s-watchtower-000d3934"
+ },
+ {
+  "name": "Shrine of Azura",
+  "kind": "exterior",
+  "category": "Shrine",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "00092496",
+  "id": "exterior-shrine-of-azura-00092496"
+ },
+ {
+  "name": "Shrine of Mehrunes Dagon",
+  "kind": "exterior",
+  "category": "Shrine",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "000246A5",
+  "id": "exterior-shrine-of-mehrunes-dagon-000246a5"
+ },
+ {
+  "name": "Shrine to Peryite",
+  "kind": "exterior",
+  "category": "Shrine",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "000AD066",
+  "id": "exterior-shrine-to-peryite-000ad066"
+ },
+ {
+  "name": "Shrines",
+  "kind": "exterior",
+  "category": "Place",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "Shrines to the Nine Divines",
+  "id": "exterior-shrines-shrines"
+ },
+ {
+  "name": "Shroud Hearth Barrow",
+  "kind": "exterior",
+  "category": "Nordic Ruins",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "0006CCC8",
+  "id": "exterior-shroud-hearth-barrow-0006ccc8"
+ },
+ {
+  "name": "Shrouded Grove",
+  "kind": "exterior",
+  "category": "Grove",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "000162B1",
+  "id": "exterior-shrouded-grove-000162b1"
+ },
+ {
+  "name": "Sightless Pit",
+  "kind": "exterior",
+  "category": "Cave",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "000162B3",
+  "id": "exterior-sightless-pit-000162b3"
+ },
+ {
+  "name": "Silent Moons Camp",
+  "kind": "exterior",
+  "category": "Nordic Ruins",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "000162B4",
+  "id": "exterior-silent-moons-camp-000162b4"
+ },
+ {
+  "name": "Silverdrift Lair",
+  "kind": "exterior",
+  "category": "Nordic Ruins",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "000162B5",
+  "id": "exterior-silverdrift-lair-000162b5"
+ },
+ {
+  "name": "Skaal Village",
+  "kind": "exterior",
+  "category": "Town",
+  "region": "",
+  "dlc": "Dragonborn",
+  "description": "",
+  "formId": "040143E2",
+  "id": "exterior-skaal-village-040143e2"
+ },
+ {
+  "name": "Sky Haven Temple",
+  "kind": "exterior",
+  "category": "Landmark",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "0001637C",
+  "id": "exterior-sky-haven-temple-0001637c"
+ },
+ {
+  "name": "Skyborn Altar",
+  "kind": "exterior",
+  "category": "Dragon Lair",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "00016239",
+  "id": "exterior-skyborn-altar-00016239"
+ },
+ {
+  "name": "Skyrim",
+  "kind": "exterior",
+  "category": "DLC02 - To Skyrim",
+  "region": "",
+  "dlc": "Dragonborn",
+  "description": "",
+  "formId": "04016FE6",
+  "id": "exterior-skyrim-04016fe6"
+ },
+ {
+  "name": "Skytemple Ruins",
+  "kind": "exterior",
+  "category": "Nordic Dwelling",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "000EF0AE",
+  "id": "exterior-skytemple-ruins-000ef0ae"
+ },
+ {
+  "name": "Sleeping Tree Camp",
+  "kind": "exterior",
+  "category": "Giant Camp",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "000162B8",
+  "id": "exterior-sleeping-tree-camp-000162b8"
+ },
+ {
+  "name": "Snapleg Cave",
+  "kind": "exterior",
+  "category": "Cave",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "00068094",
+  "id": "exterior-snapleg-cave-00068094"
+ },
+ {
+  "name": "Snow Veil Sanctum",
+  "kind": "exterior",
+  "category": "Nordic Ruins",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "0002DDD1",
+  "id": "exterior-snow-veil-sanctum-0002ddd1"
+ },
+ {
+  "name": "Snow-Shod Farm",
+  "kind": "exterior",
+  "category": "Wheat Mill",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "0001634C",
+  "id": "exterior-snow-shod-farm-0001634c"
+ },
+ {
+  "name": "Snowclad Ruins",
+  "kind": "exterior",
+  "category": "Nordic Dwelling",
+  "region": "",
+  "dlc": "Dragonborn",
+  "description": "",
+  "formId": "040247C8",
+  "id": "exterior-snowclad-ruins-040247c8"
+ },
+ {
+  "name": "Snowpoint Beacon",
+  "kind": "exterior",
+  "category": "Imperial Tower",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "000C2EF6",
+  "id": "exterior-snowpoint-beacon-000c2ef6"
+ },
+ {
+  "name": "Solitude",
+  "kind": "exterior",
+  "category": "Solitude Capitol",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "0004D0F4",
+  "id": "exterior-solitude-0004d0f4"
+ },
+ {
+  "name": "Solitude Lighthouse",
+  "kind": "exterior",
+  "category": "Lighthouse",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "000C016D",
+  "id": "exterior-solitude-lighthouse-000c016d"
+ },
+ {
+  "name": "Solitude Military Camp",
+  "kind": "exterior",
+  "category": "Imperial Camp",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "000EC194",
+  "id": "exterior-solitude-military-camp-000ec194"
+ },
+ {
+  "name": "Solitude Military Camp",
+  "kind": "exterior",
+  "category": "Stormcloak Camp",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "00034896",
+  "id": "exterior-solitude-military-camp-00034896"
+ },
+ {
+  "name": "Solitude Sawmill",
+  "kind": "exterior",
+  "category": "Wood Mill",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "00016382",
+  "id": "exterior-solitude-sawmill-00016382"
+ },
+ {
+  "name": "Soljund's Sinkhole",
+  "kind": "exterior",
+  "category": "Cave",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "000162BB",
+  "id": "exterior-soljund-s-sinkhole-000162bb"
+ },
+ {
+  "name": "Solstheim",
+  "kind": "exterior",
+  "category": "DLC02 - To Solstheim",
+  "region": "",
+  "dlc": "Dragonborn",
+  "description": "",
+  "formId": "04016FE7",
+  "id": "exterior-solstheim-04016fe7"
+ },
+ {
+  "name": "Solstheim Explorer (20 points/Bronze)",
+  "kind": "exterior",
+  "category": "Achievement",
+  "region": "",
+  "dlc": "Dragonborn",
+  "description": "Discover 30 locations on the island of Solstheim",
+  "id": "exterior-solstheim-explorer-20-points-bronze-solstheimexplorer"
+ },
+ {
+  "name": "Soul Cairn",
+  "kind": "exterior",
+  "category": "Beyond Skyrim",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "A plane of Oblivion haunted by lost souls.",
+  "id": "exterior-soul-cairn-soulcairn"
+ },
+ {
+  "name": "South Brittleshin Pass",
+  "kind": "exterior",
+  "category": "Cave",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "00082213",
+  "id": "exterior-south-brittleshin-pass-00082213"
+ },
+ {
+  "name": "South Cold Rock Pass",
+  "kind": "exterior",
+  "category": "Pass",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "000F5EAF",
+  "id": "exterior-south-cold-rock-pass-000f5eaf"
+ },
+ {
+  "name": "South Shriekwind Bastion",
+  "kind": "exterior",
+  "category": "Nordic Ruins",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "000B83C8",
+  "id": "exterior-south-shriekwind-bastion-000b83c8"
+ },
+ {
+  "name": "South Skybound Watch",
+  "kind": "exterior",
+  "category": "Nordic Tower",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "000479BB",
+  "id": "exterior-south-skybound-watch-000479bb"
+ },
+ {
+  "name": "Southfringe Sanctum",
+  "kind": "exterior",
+  "category": "Cave",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "00016217",
+  "id": "exterior-southfringe-sanctum-00016217"
+ },
+ {
+  "name": "Sovngarde",
+  "kind": "exterior",
+  "category": "Beyond Skyrim",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "The Nordic afterlife.",
+  "id": "exterior-sovngarde-sovngarde"
+ },
+ {
+  "name": "Stables",
+  "kind": "exterior",
+  "category": "Place",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "Stables, where you can buy horses",
+  "id": "exterior-stables-stables"
+ },
+ {
+  "name": "Stalhrim Source",
+  "kind": "exterior",
+  "category": "Landmark",
+  "region": "",
+  "dlc": "Dragonborn",
+  "description": "",
+  "formId": "040296E0",
+  "id": "exterior-stalhrim-source-040296e0"
+ },
+ {
+  "name": "Standing Stones",
+  "kind": "exterior",
+  "category": "Place",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "Magical stones which grant special abilities or powers",
+  "id": "exterior-standing-stones-standingstones"
+ },
+ {
+  "name": "Statue to Meridia",
+  "kind": "exterior",
+  "category": "Shrine",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "0001626D",
+  "id": "exterior-statue-to-meridia-0001626d"
+ },
+ {
+  "name": "Steamcrag Camp",
+  "kind": "exterior",
+  "category": "Giant Camp",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "0001623A",
+  "id": "exterior-steamcrag-camp-0001623a"
+ },
+ {
+  "name": "Steepfall Burrow",
+  "kind": "exterior",
+  "category": "Cave",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "000162BF",
+  "id": "exterior-steepfall-burrow-000162bf"
+ },
+ {
+  "name": "Stendarr's Beacon",
+  "kind": "exterior",
+  "category": "Imperial Tower",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "00108A58",
+  "id": "exterior-stendarr-s-beacon-00108a58"
+ },
+ {
+  "name": "Stillborn Cave",
+  "kind": "exterior",
+  "category": "Cave",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "000162C0",
+  "id": "exterior-stillborn-cave-000162c0"
+ },
+ {
+  "name": "Stonehill Bluff",
+  "kind": "exterior",
+  "category": "Giant Camp",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "000162C1",
+  "id": "exterior-stonehill-bluff-000162c1"
+ },
+ {
+  "name": "Stonehills",
+  "kind": "exterior",
+  "category": "Mine",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "000177E4",
+  "id": "exterior-stonehills-000177e4"
+ },
+ {
+  "name": "Stony Creek Cave",
+  "kind": "exterior",
+  "category": "Cave",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "00080F13",
+  "id": "exterior-stony-creek-cave-00080f13"
+ },
+ {
+  "name": "Stores",
+  "kind": "exterior",
+  "category": "Place",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "Merchant stores",
+  "id": "exterior-stores-stores"
+ },
+ {
+  "name": "Sun Stone",
+  "kind": "exterior",
+  "category": "DLC02 - Beast Stone",
+  "region": "",
+  "dlc": "Dragonborn",
+  "description": "",
+  "formId": "040143E5",
+  "id": "exterior-sun-stone-040143e5"
+ },
+ {
+  "name": "Sundered Towers",
+  "kind": "exterior",
+  "category": "Nordic Tower",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "000B6295",
+  "id": "exterior-sundered-towers-000b6295"
+ },
+ {
+  "name": "Sunderstone Gorge",
+  "kind": "exterior",
+  "category": "Cave",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "000F5EA8",
+  "id": "exterior-sunderstone-gorge-000f5ea8"
+ },
+ {
+  "name": "Swindler's Den",
+  "kind": "exterior",
+  "category": "Cave",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "00015D4D",
+  "id": "exterior-swindler-s-den-00015d4d"
+ },
+ {
+  "name": "Talking Stone Camp",
+  "kind": "exterior",
+  "category": "Giant Camp",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "000162C3",
+  "id": "exterior-talking-stone-camp-000162c3"
+ },
+ {
+  "name": "Tel Mithryn",
+  "kind": "exterior",
+  "category": "DLC02 - Tel Mithryn",
+  "region": "",
+  "dlc": "Dragonborn",
+  "description": "The main tower and home of Neloth and his apprentice Talvas Fathryon in Tel Mithryn. (map)",
+  "formId": "040143E8",
+  "id": "exterior-tel-mithryn-040143e8"
+ },
+ {
+  "name": "Tel Mithryn Apothecary",
+  "kind": "exterior",
+  "category": "Minor Settlement",
+  "region": "",
+  "dlc": "Dragonborn",
+  "description": "The home of the apothecary Elynea Mothren in Tel Mithryn. (map)",
+  "id": "exterior-tel-mithryn-apothecary-telmithrynapothecary"
+ },
+ {
+  "name": "Tel Mithryn Kitchen",
+  "kind": "exterior",
+  "category": "Minor Settlement",
+  "region": "",
+  "dlc": "Dragonborn",
+  "description": "The home of the cook Ulves Romoran in Tel Mithryn. (map)",
+  "id": "exterior-tel-mithryn-kitchen-telmithrynkitchen"
+ },
+ {
+  "name": "Tel Mithryn Steward's House",
+  "kind": "exterior",
+  "category": "Minor Settlement",
+  "region": "",
+  "dlc": "Dragonborn",
+  "description": "The home of the steward Varona Nelas or Drovas Relvi in Tel Mithryn. (map)",
+  "id": "exterior-tel-mithryn-steward-s-house-telmithrynstewardshouse"
+ },
+ {
+  "name": "Temple",
+  "kind": "exterior",
+  "category": "Citie",
+  "region": "",
+  "dlc": "Dragonborn",
+  "description": "A Dunmer place of worship in Raven Rock. (map)",
+  "id": "exterior-temple-temple"
+ },
+ {
+  "name": "Temple Ancestral Tomb",
+  "kind": "exterior",
+  "category": "Citie",
+  "region": "",
+  "dlc": "Dragonborn",
+  "description": "A Dunmer ancestral tomb in Raven Rock.",
+  "id": "exterior-temple-ancestral-tomb-templeancestraltomb"
+ },
+ {
+  "name": "Temple of Miraak",
+  "kind": "exterior",
+  "category": "DLC02 - Temple of Miraak",
+  "region": "",
+  "dlc": "Dragonborn",
+  "description": "",
+  "formId": "040143CA",
+  "id": "exterior-temple-of-miraak-040143ca"
+ },
+ {
+  "name": "Temples",
+  "kind": "exterior",
+  "category": "Place",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "The various temples of the Nine Divines",
+  "id": "exterior-temples-temples"
+ },
+ {
+  "name": "Test Cells",
+  "kind": "exterior",
+  "category": "See Also",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "A descriptive list of all test cells and unused cells in Skyrim's data.",
+  "id": "exterior-test-cells-testcells"
+ },
+ {
+  "name": "Thalmor Embassy",
+  "kind": "exterior",
+  "category": "Settlement",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "00033E45",
+  "id": "exterior-thalmor-embassy-00033e45"
+ },
+ {
+  "name": "The Apprentice Stone",
+  "kind": "exterior",
+  "category": "Doomstone",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "0001BAB9",
+  "id": "exterior-the-apprentice-stone-0001bab9"
+ },
+ {
+  "name": "The Atronach Stone",
+  "kind": "exterior",
+  "category": "Doomstone",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "000E0F4C",
+  "id": "exterior-the-atronach-stone-000e0f4c"
+ },
+ {
+  "name": "The Bulwark",
+  "kind": "exterior",
+  "category": "Citie",
+  "region": "",
+  "dlc": "Dragonborn",
+  "description": "An imposing stone wall created to protect Raven Rock from ash storms, with the city's garrison and jail both built directly into the wall. (map)",
+  "id": "exterior-the-bulwark-bulwark"
+ },
+ {
+  "name": "The Bulwark Jail",
+  "kind": "exterior",
+  "category": "Citie",
+  "region": "",
+  "dlc": "Dragonborn",
+  "description": "The jail in Raven Rock, built directly into the Bulwark. (map)",
+  "id": "exterior-the-bulwark-jail-bulwarkjail"
+ },
+ {
+  "name": "The Guardian Stones",
+  "kind": "exterior",
+  "category": "Doomstone",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "0001BABD",
+  "id": "exterior-the-guardian-stones-0001babd"
+ },
+ {
+  "name": "The Katariah",
+  "kind": "exterior",
+  "category": "Shipwreck",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "000C4D20",
+  "id": "exterior-the-katariah-000c4d20"
+ },
+ {
+  "name": "The Lady Stone",
+  "kind": "exterior",
+  "category": "Doomstone",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "000DED90",
+  "id": "exterior-the-lady-stone-000ded90"
+ },
+ {
+  "name": "The Lord Stone",
+  "kind": "exterior",
+  "category": "Doomstone",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "000E0F47",
+  "id": "exterior-the-lord-stone-000e0f47"
+ },
+ {
+  "name": "The Lover Stone",
+  "kind": "exterior",
+  "category": "Doomstone",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "0001BABB",
+  "id": "exterior-the-lover-stone-0001babb"
+ },
+ {
+  "name": "The Mind of a Madman",
+  "kind": "exterior",
+  "category": "Beyond Skyrim",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "The mind of Pelagius the Mad.",
+  "id": "exterior-the-mind-of-a-madman-mindofamadman"
+ },
+ {
+  "name": "The Retching Netch",
+  "kind": "exterior",
+  "category": "Citie",
+  "region": "",
+  "dlc": "Dragonborn",
+  "description": "The cornerclub in Raven Rock. (map)",
+  "id": "exterior-the-retching-netch-retchingnetch"
+ },
+ {
+  "name": "The Ritual Stone",
+  "kind": "exterior",
+  "category": "Doomstone",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "000DD9D5",
+  "id": "exterior-the-ritual-stone-000dd9d5"
+ },
+ {
+  "name": "The Serpent Stone",
+  "kind": "exterior",
+  "category": "Doomstone",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "000E0F69",
+  "id": "exterior-the-serpent-stone-000e0f69"
+ },
+ {
+  "name": "The Shadow Stone",
+  "kind": "exterior",
+  "category": "Doomstone",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "000D3935",
+  "id": "exterior-the-shadow-stone-000d3935"
+ },
+ {
+  "name": "The Steed Stone",
+  "kind": "exterior",
+  "category": "Doomstone",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "0001BAC0",
+  "id": "exterior-the-steed-stone-0001bac0"
+ },
+ {
+  "name": "The Tower Stone",
+  "kind": "exterior",
+  "category": "Doomstone",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "000E0ED5",
+  "id": "exterior-the-tower-stone-000e0ed5"
+ },
+ {
+  "name": "Thieves Guild",
+  "kind": "exterior",
+  "category": "Landmark",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "00105F3A",
+  "id": "exterior-thieves-guild-00105f3a"
+ },
+ {
+  "name": "Thirsk Mead Hall",
+  "kind": "exterior",
+  "category": "Settlement",
+  "region": "",
+  "dlc": "Dragonborn",
+  "description": "",
+  "formId": "040143E9",
+  "id": "exterior-thirsk-mead-hall-040143e9"
+ },
+ {
+  "name": "Throat of the World",
+  "kind": "exterior",
+  "category": "Landmark",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "000162C4",
+  "id": "exterior-throat-of-the-world-000162c4"
+ },
+ {
+  "name": "Tolvald's Cave",
+  "kind": "exterior",
+  "category": "Cave",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "000162C5",
+  "id": "exterior-tolvald-s-cave-000162c5"
+ },
+ {
+  "name": "Tower of Mzark",
+  "kind": "exterior",
+  "category": "Dwemer Ruin",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "000D30DA",
+  "id": "exterior-tower-of-mzark-000d30da"
+ },
+ {
+  "name": "Traitor's Post",
+  "kind": "exterior",
+  "category": "Shack",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "000C2EE9",
+  "id": "exterior-traitor-s-post-000c2ee9"
+ },
+ {
+  "name": "Treva's Watch",
+  "kind": "exterior",
+  "category": "Fort",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "000162C6",
+  "id": "exterior-treva-s-watch-000162c6"
+ },
+ {
+  "name": "Tumble Arch Pass",
+  "kind": "exterior",
+  "category": "Giant Camp",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "000162C7",
+  "id": "exterior-tumble-arch-pass-000162c7"
+ },
+ {
+  "name": "Twilight Sepulcher",
+  "kind": "exterior",
+  "category": "Nordic Ruins",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "00016216",
+  "id": "exterior-twilight-sepulcher-00016216"
+ },
+ {
+  "name": "Ulen Ancestral Tomb",
+  "kind": "exterior",
+  "category": "Citie",
+  "region": "",
+  "dlc": "Dragonborn",
+  "description": "A Dunmer ancestral tomb in Raven Rock. (map)",
+  "id": "exterior-ulen-ancestral-tomb-ulenancestraltomb"
+ },
+ {
+  "name": "Understone Keep",
+  "kind": "exterior",
+  "category": "Markarth Castle",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "000C44AF",
+  "id": "exterior-understone-keep-000c44af"
+ },
+ {
+  "name": "Unmarked Places",
+  "kind": "exterior",
+  "category": "Place",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "Places that do not appear on the map",
+  "id": "exterior-unmarked-places-unmarkedplaces"
+ },
+ {
+  "name": "Ustengrav",
+  "kind": "exterior",
+  "category": "Nordic Ruins",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "0001621F",
+  "id": "exterior-ustengrav-0001621f"
+ },
+ {
+  "name": "Uttering Hills Cave",
+  "kind": "exterior",
+  "category": "Cave",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "000162C8",
+  "id": "exterior-uttering-hills-cave-000162c8"
+ },
+ {
+  "name": "Vahlok's Tomb",
+  "kind": "exterior",
+  "category": "Nordic Ruins",
+  "region": "",
+  "dlc": "Dragonborn",
+  "description": "",
+  "formId": "040143CB",
+  "id": "exterior-vahlok-s-tomb-040143cb"
+ },
+ {
+  "name": "Valtheim Towers",
+  "kind": "exterior",
+  "category": "Nordic Tower",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "000162C9",
+  "id": "exterior-valtheim-towers-000162c9"
+ },
+ {
+  "name": "Valthume",
+  "kind": "exterior",
+  "category": "Nordic Ruins",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "0008D5D6",
+  "id": "exterior-valthume-0008d5d6"
+ },
+ {
+  "name": "Volskygge",
+  "kind": "exterior",
+  "category": "Nordic Ruins",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "000162CA",
+  "id": "exterior-volskygge-000162ca"
+ },
+ {
+  "name": "Volunruud",
+  "kind": "exterior",
+  "category": "Nordic Ruins",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "00016264",
+  "id": "exterior-volunruud-00016264"
+ },
+ {
+  "name": "Water Stone",
+  "kind": "exterior",
+  "category": "DLC02 - Beast Stone",
+  "region": "",
+  "dlc": "Dragonborn",
+  "description": "",
+  "formId": "040143E6",
+  "id": "exterior-water-stone-040143e6"
+ },
+ {
+  "name": "Wayward Pass",
+  "kind": "exterior",
+  "category": "Pass",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "000C2EFA",
+  "id": "exterior-wayward-pass-000c2efa"
+ },
+ {
+  "name": "Western Watchtower",
+  "kind": "exterior",
+  "category": "Fort",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "000DB889",
+  "id": "exterior-western-watchtower-000db889"
+ },
+ {
+  "name": "Weynon Stones",
+  "kind": "exterior",
+  "category": "Landmark",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "000BC0AA",
+  "id": "exterior-weynon-stones-000bc0aa"
+ },
+ {
+  "name": "Whistling Mine",
+  "kind": "exterior",
+  "category": "Mine",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "00016385",
+  "id": "exterior-whistling-mine-00016385"
+ },
+ {
+  "name": "White Ridge Barrow",
+  "kind": "exterior",
+  "category": "Nordic Ruins",
+  "region": "",
+  "dlc": "Dragonborn",
+  "description": "",
+  "formId": "040143CD",
+  "id": "exterior-white-ridge-barrow-040143cd"
+ },
+ {
+  "name": "White River Watch",
+  "kind": "exterior",
+  "category": "Cave",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "000162CD",
+  "id": "exterior-white-river-watch-000162cd"
+ },
+ {
+  "name": "Whiterun",
+  "kind": "exterior",
+  "category": "Whiterun Capitol",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "000162CE",
+  "id": "exterior-whiterun-000162ce"
+ },
+ {
+  "name": "Whiterun Imperial Camp",
+  "kind": "exterior",
+  "category": "Imperial Camp",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "00016284",
+  "id": "exterior-whiterun-imperial-camp-00016284"
+ },
+ {
+  "name": "Whiterun Military Camp",
+  "kind": "exterior",
+  "category": "Imperial Camp",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "000EC192",
+  "id": "exterior-whiterun-military-camp-000ec192"
+ },
+ {
+  "name": "Whiterun Military Camp",
+  "kind": "exterior",
+  "category": "Stormcloak Camp",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "00094A1F",
+  "id": "exterior-whiterun-military-camp-00094a1f"
+ },
+ {
+  "name": "Whiterun Stables",
+  "kind": "exterior",
+  "category": "Stable",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "00072879",
+  "id": "exterior-whiterun-stables-00072879"
+ },
+ {
+  "name": "Whiterun Stormcloak Camp",
+  "kind": "exterior",
+  "category": "Stormcloak Camp",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "00095885",
+  "id": "exterior-whiterun-stormcloak-camp-00095885"
+ },
+ {
+  "name": "Whitewatch Tower",
+  "kind": "exterior",
+  "category": "Imperial Tower",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "000DD99A",
+  "id": "exterior-whitewatch-tower-000dd99a"
+ },
+ {
+  "name": "Widow's Watch Ruins",
+  "kind": "exterior",
+  "category": "Imperial Tower",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "000EF0A7",
+  "id": "exterior-widow-s-watch-ruins-000ef0a7"
+ },
+ {
+  "name": "Wind Stone",
+  "kind": "exterior",
+  "category": "DLC02 - Beast Stone",
+  "region": "",
+  "dlc": "Dragonborn",
+  "description": "",
+  "formId": "040143E7",
+  "id": "exterior-wind-stone-040143e7"
+ },
+ {
+  "name": "Windhelm",
+  "kind": "exterior",
+  "category": "Windhelm Capitol",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "00038436",
+  "id": "exterior-windhelm-00038436"
+ },
+ {
+  "name": "Windhelm Docks",
+  "kind": "exterior",
+  "category": "Shipwreck",
+  "region": "",
+  "dlc": "Dawnguard",
+  "description": "",
+  "formId": "02016864",
+  "id": "exterior-windhelm-docks-02016864"
+ },
+ {
+  "name": "Windhelm Military Camp",
+  "kind": "exterior",
+  "category": "Imperial Camp",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "0009003B",
+  "id": "exterior-windhelm-military-camp-0009003b"
+ },
+ {
+  "name": "Windhelm Military Camp",
+  "kind": "exterior",
+  "category": "Stormcloak Camp",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "000EC193",
+  "id": "exterior-windhelm-military-camp-000ec193"
+ },
+ {
+  "name": "Windhelm Stables",
+  "kind": "exterior",
+  "category": "Stable",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "0009846F",
+  "id": "exterior-windhelm-stables-0009846f"
+ },
+ {
+  "name": "Windstad Manor",
+  "kind": "exterior",
+  "category": "Town",
+  "region": "",
+  "dlc": "Hearthfire",
+  "description": "",
+  "formId": "0300B8B0",
+  "id": "exterior-windstad-manor-0300b8b0"
+ },
+ {
+  "name": "Windward Ruins",
+  "kind": "exterior",
+  "category": "Nordic Dwelling",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "000C2EEC",
+  "id": "exterior-windward-ruins-000c2eec"
+ },
+ {
+  "name": "Winterhold",
+  "kind": "exterior",
+  "category": "Winterhold Capitol",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "000177EF",
+  "id": "exterior-winterhold-000177ef"
+ },
+ {
+  "name": "Winterhold Imperial Camp",
+  "kind": "exterior",
+  "category": "Imperial Camp",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "0001627D",
+  "id": "exterior-winterhold-imperial-camp-0001627d"
+ },
+ {
+  "name": "Winterhold Stormcloak Camp",
+  "kind": "exterior",
+  "category": "Stormcloak Camp",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "0001627E",
+  "id": "exterior-winterhold-stormcloak-camp-0001627e"
+ },
+ {
+  "name": "Witchmist Grove",
+  "kind": "exterior",
+  "category": "Grove",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "000E1B80",
+  "id": "exterior-witchmist-grove-000e1b80"
+ },
+ {
+  "name": "Wolfskull Cave",
+  "kind": "exterior",
+  "category": "Cave",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "000162D1",
+  "id": "exterior-wolfskull-cave-000162d1"
+ },
+ {
+  "name": "Word Walls",
+  "kind": "exterior",
+  "category": "Place",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "Locations where word walls can be found",
+  "id": "exterior-word-walls-wordwalls"
+ },
+ {
+  "name": "Worldspaces",
+  "kind": "exterior",
+  "category": "Place",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "Exterior areas that are technically separate from the main world of Skyrim",
+  "id": "exterior-worldspaces-worldspaces"
+ },
+ {
+  "name": "Wreck Of The Brinehammer",
+  "kind": "exterior",
+  "category": "Shipwreck",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "000162AB",
+  "id": "exterior-wreck-of-the-brinehammer-000162ab"
+ },
+ {
+  "name": "Wreck of the Icerunner",
+  "kind": "exterior",
+  "category": "Shipwreck",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "000162AA",
+  "id": "exterior-wreck-of-the-icerunner-000162aa"
+ },
+ {
+  "name": "Wreck of The Pride of Tel Vos",
+  "kind": "exterior",
+  "category": "Shipwreck",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "000162AE",
+  "id": "exterior-wreck-of-the-pride-of-tel-vos-000162ae"
+ },
+ {
+  "name": "Wreck of the Strident Squall",
+  "kind": "exterior",
+  "category": "Shipwreck",
+  "region": "",
+  "dlc": "Dragonborn",
+  "description": "",
+  "formId": "040143CF",
+  "id": "exterior-wreck-of-the-strident-squall-040143cf"
+ },
+ {
+  "name": "Wreck of the Winter War",
+  "kind": "exterior",
+  "category": "Shipwreck",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "000162AF",
+  "id": "exterior-wreck-of-the-winter-war-000162af"
+ },
+ {
+  "name": "Wulf Wild-Blood's House",
+  "kind": "exterior",
+  "category": "Town",
+  "region": "",
+  "dlc": "Dragonborn",
+  "description": "The home of Wulf Wild-Blood in Skaal Village. (map)",
+  "id": "exterior-wulf-wild-blood-s-house-wulfwildbloodshouse"
+ },
+ {
+  "name": "Yngol Barrow",
+  "kind": "exterior",
+  "category": "Nordic Ruins",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "00016271",
+  "id": "exterior-yngol-barrow-00016271"
+ },
+ {
+  "name": "Yngvild",
+  "kind": "exterior",
+  "category": "Cave",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "000162D3",
+  "id": "exterior-yngvild-000162d3"
+ },
+ {
+  "name": "Yorgrim Overlook",
+  "kind": "exterior",
+  "category": "Nordic Dwelling",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "000C33FF",
+  "id": "exterior-yorgrim-overlook-000c33ff"
+ },
+ {
+  "name": "Ysgramor's Tomb",
+  "kind": "exterior",
+  "category": "Nordic Ruins",
+  "region": "",
+  "dlc": "Skyrim",
+  "description": "",
+  "formId": "000162D2",
+  "id": "exterior-ysgramor-s-tomb-000162d2"
+ }
+]
